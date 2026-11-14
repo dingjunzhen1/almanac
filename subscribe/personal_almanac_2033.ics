@@ -1,0 +1,4818 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//bazi-almanac//personal almanac ICS//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Shanghai
+X-WR-CALNAME:黄历 2033
+X-WR-CALDESC:个人黄历 · 命主男 壬午 辛亥 己丑 丁卯 · 2026
+ -01-01~2036-12-31
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330101
+DTEND;VALUE=DATE:20330102
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-01 星期六\n农历：二〇三二年腊月
+ 初一\n干支：壬子年 壬子月 壬子日\n宜：安葬、启钻、
+ 移柩、入殓、除服、成服\n忌：馀事勿取\n冲煞：冲马(丙
+ 午) 煞南\n个人提示：与年柱相冲（子冲午）\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬子日 | 宜：安葬、启钻、移柩等 | 忌：馀事勿取
+UID:20330101@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330102
+DTEND;VALUE=DATE:20330103
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-02 星期日\n农历：二〇三二年腊月
+ 初二\n干支：壬子年 壬子月 癸丑日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、出行、出火、拆卸、开市、交易、立券、
+ 挂匾、入宅、移徙、安床、栽种\n忌：作灶、塑绘、行丧
+ 、词讼、伐木、安葬\n冲煞：冲羊(丁未) 煞东\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸丑日 | 宜：嫁娶、祭祀、祈福等 | 忌：作灶、塑
+ 绘、行丧等
+UID:20330102@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330103
+DTEND;VALUE=DATE:20330104
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-03 星期一\n农历：二〇三二年腊月
+ 初三\n干支：壬子年 壬子月 甲寅日\n宜：理发、开光、
+ 解除、拆卸、修造、安葬、开市、交易、立券、挂匾、
+ 安床、栽种\n忌：入宅、移徙、作灶、祈福、祭祀、嫁娶
+ 、谢土、掘井、盖屋、探病\n冲煞：冲猴(戊申) 煞北\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲寅日 | 宜：理发、开光、解除等 | 忌：入宅、移
+ 徙、作灶等
+UID:20330103@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330104
+DTEND;VALUE=DATE:20330105
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-04 星期二\n农历：二〇三二年腊月
+ 初四\n干支：壬子年 壬子月 乙卯日\n宜：祭祀、修饰垣
+ 墙、馀事勿取\n忌：诸事不宜\n冲煞：冲鸡(己酉) 煞西\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙卯日 | 宜：祭祀、修饰垣墙、馀事勿取 | 忌：诸
+ 事不宜
+UID:20330104@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330105
+DTEND;VALUE=DATE:20330106
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-05 星期三\n农历：二〇三二年腊月
+ 初五\n干支：壬子年 癸丑月 丙辰日\n宜：祭祀、冠笄、
+ 嫁娶、会亲友、进人口、裁衣、结网、平治道涂\n忌：移
+ 徙、入宅、造庙、作灶、治病、安葬\n冲煞：冲狗(庚戌) 
+ 煞南\n节气：小寒\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙辰日 | 宜：祭祀、冠笄、嫁娶等 | 忌：移徙、入
+ 宅、造庙等
+UID:20330105@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330106
+DTEND;VALUE=DATE:20330107
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-06 星期四\n农历：二〇三二年腊月
+ 初六\n干支：壬子年 癸丑月 丁巳日\n宜：祭祀、安碓磑
+ 、结网、馀事勿取\n忌：嫁娶、安葬\n冲煞：冲猪(辛亥) 
+ 煞东\n个人提示：月柱天克地冲（丁克辛、巳冲亥）\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁巳日 | 宜：祭祀、安碓磑、结网等 | 忌：嫁娶、
+ 安葬
+UID:20330106@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330107
+DTEND;VALUE=DATE:20330108
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-07 星期五\n农历：二〇三二年腊月
+ 初七\n干支：壬子年 癸丑月 戊午日\n宜：嫁娶、祭祀、
+ 沐浴、裁衣、出行、理发、移徙、捕捉、畋猎、放水、
+ 入宅、除服、成服、启钻、安葬、移柩、入殓\n忌：盖屋
+ 、开市、动土、破土\n冲煞：冲鼠(壬子) 煞北\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊午日 | 宜：嫁娶、祭祀、沐浴等 | 忌：盖屋、开
+ 市、动土等
+UID:20330107@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330108
+DTEND;VALUE=DATE:20330109
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-08 星期六\n农历：二〇三二年腊月
+ 初八\n干支：壬子年 癸丑月 己未日\n宜：破屋、坏垣、
+ 馀事勿取\n忌：嫁娶、开市、安葬\n冲煞：冲牛(癸丑) 煞
+ 西\n个人提示：与日柱相冲（未冲丑）\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:己未日 | 宜：破屋、坏垣、馀事勿取 | 忌：嫁娶、
+ 开市、安葬
+UID:20330108@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330109
+DTEND;VALUE=DATE:20330110
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-09 星期日\n农历：二〇三二年腊月
+ 初九\n干支：壬子年 癸丑月 庚申日\n宜：纳采、订盟、
+ 祭祀、求嗣、出火、塑绘、裁衣、会亲友、入学、拆卸
+ 、扫舍、造仓、挂匾、掘井、开池、结网、栽种、纳畜
+ 、破土、修坟、立碑、安葬、入殓\n忌：祈福、嫁娶、造
+ 庙、安床、谢土\n冲煞：冲虎(甲寅) 煞南\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:庚申日 | 宜：纳采、订盟、祭祀等 | 忌：祈福、嫁
+ 娶、造庙等
+UID:20330109@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330110
+DTEND;VALUE=DATE:20330111
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-10 星期一\n农历：二〇三二年腊月
+ 初十\n干支：壬子年 癸丑月 辛酉日\n宜：入殓、除服、
+ 成服、移柩、启钻、安葬、修坟、立碑\n忌：开市、伐木
+ 、嫁娶、作梁\n冲煞：冲兔(乙卯) 煞东\n个人提示：与时
+ 柱相冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛酉日 | 宜：入殓、除服、成服等 | 忌：开市、伐
+ 木、嫁娶等
+UID:20330110@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330111
+DTEND;VALUE=DATE:20330112
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-11 星期二\n农历：二〇三二年腊月
+ 十一\n干支：壬子年 癸丑月 壬戌日\n宜：祭祀、作灶、
+ 入殓、除服、馀事勿取\n忌：开市、安床\n冲煞：冲龙(丙
+ 辰) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬戌日 | 宜：祭祀、作灶、入殓等 | 忌：开市、安
+ 床
+UID:20330111@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330112
+DTEND;VALUE=DATE:20330113
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-12 星期三\n农历：二〇三二年腊月
+ 十二\n干支：壬子年 癸丑月 癸亥日\n宜：塑绘、开光、
+ 沐浴、冠笄、会亲友、作灶、放水、造畜稠\n忌：嫁娶、
+ 入殓、安葬、出行\n冲煞：冲蛇(丁巳) 煞西\n命主：男 · 
+ 壬午 辛亥 己丑 丁卯
+SUMMARY:癸亥日 | 宜：塑绘、开光、沐浴等 | 忌：嫁娶、入
+ 殓、安葬等
+UID:20330112@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330113
+DTEND;VALUE=DATE:20330114
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-13 星期四\n农历：二〇三二年腊月
+ 十三\n干支：壬子年 癸丑月 甲子日\n宜：祭祀、沐浴、
+ 祈福、斋醮、订盟、纳采、裁衣、拆卸、起基、竖柱、
+ 上梁、安床、入殓、除服、成服、移柩、启钻、挂匾、
+ 求嗣、出行、合帐、造畜稠\n忌：开仓、嫁娶、移徙、入
+ 宅\n冲煞：冲马(戊午) 煞南\n个人提示：与年柱相冲（子
+ 冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲子日 | 宜：祭祀、沐浴、祈福等 | 忌：开仓、嫁
+ 娶、移徙等
+UID:20330113@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330114
+DTEND;VALUE=DATE:20330115
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-14 星期五\n农历：二〇三二年腊月
+ 十四\n干支：壬子年 癸丑月 乙丑日\n宜：祭祀、解除、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲羊(己未) 煞东\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙丑日 | 宜：祭祀、解除、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330114@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330115
+DTEND;VALUE=DATE:20330116
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-15 星期六\n农历：二〇三二年腊月
+ 十五\n干支：壬子年 癸丑月 丙寅日\n宜：沐浴、解除、
+ 订盟、纳采、裁衣、冠笄、拆卸、修造、动土、移徙、
+ 入宅、除服、成服、移柩、破土、启钻、安葬、扫舍、
+ 修坟、伐木、纳财、交易、立券\n忌：作灶、祭祀、上梁
+ 、出行\n冲煞：冲猴(庚申) 煞北\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:丙寅日 | 宜：沐浴、解除、订盟等 | 忌：作灶、祭
+ 祀、上梁等
+UID:20330115@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330116
+DTEND;VALUE=DATE:20330117
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-16 星期日\n农历：二〇三二年腊月
+ 十六\n干支：壬子年 癸丑月 丁卯日\n宜：出行、嫁娶、
+ 订盟、纳采、入殓、安床、启钻、安葬、祭祀、裁衣、
+ 会亲友、进人口\n忌：无\n冲煞：冲鸡(辛酉) 煞西\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁卯日 | 宜：出行、嫁娶、订盟等 | 忌：无
+UID:20330116@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330117
+DTEND;VALUE=DATE:20330118
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-17 星期一\n农历：二〇三二年腊月
+ 十七\n干支：壬子年 癸丑月 戊辰日\n宜：修饰垣墙、平
+ 治道涂、入殓、移柩、馀事勿取\n忌：嫁娶、移徙、入宅
+ 、开光\n冲煞：冲狗(壬戌) 煞南\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:戊辰日 | 宜：修饰垣墙、平治道涂、入殓等 | 忌：
+ 嫁娶、移徙、入宅等
+UID:20330117@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330118
+DTEND;VALUE=DATE:20330119
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-18 星期二\n农历：二〇三二年腊月
+ 十八\n干支：壬子年 癸丑月 己巳日\n宜：会亲友、纳采
+ 、进人口、修造、动土、竖柱、上梁、祭祀、开光、塑
+ 绘、祈福、斋醮、嫁娶、安床、移徙、入宅、安香、纳
+ 畜\n忌：出行、治病、安葬、开市\n冲煞：冲猪(癸亥) 煞
+ 东\n个人提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:己巳日 | 宜：会亲友、纳采、进人口等 | 忌：出行
+ 、治病、安葬等
+UID:20330118@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330119
+DTEND;VALUE=DATE:20330120
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-19 星期三\n农历：二〇三二年腊月
+ 十九\n干支：壬子年 癸丑月 庚午日\n宜：祭祀、会亲友
+ 、出行、订盟、纳采、沐浴、修造、动土、祈福、斋醮
+ 、嫁娶、拆卸、安床、入殓、移柩、安葬、谢土、赴任
+ 、裁衣、竖柱、上梁、伐木、捕捉、栽种、破土、安门\n
+ 忌：盖屋、开市、作灶、入宅\n冲煞：冲鼠(甲子) 煞北\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚午日 | 宜：祭祀、会亲友、出行等 | 忌：盖屋、
+ 开市、作灶等
+UID:20330119@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330120
+DTEND;VALUE=DATE:20330121
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-20 星期四\n农历：二〇三二年腊月
+ 二十\n干支：壬子年 癸丑月 辛未日\n宜：解除、破屋、
+ 坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲牛(乙丑) 煞西
+ \n节气：大寒\n个人提示：与日柱相冲（未冲丑）\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛未日 | 宜：解除、破屋、坏垣等 | 忌：诸事不宜
+UID:20330120@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330121
+DTEND;VALUE=DATE:20330122
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-21 星期五\n农历：二〇三二年腊月
+ 廿一\n干支：壬子年 癸丑月 壬申日\n宜：塑绘、开光、
+ 出行、订盟、纳采、除服、成服、嫁娶、纳婿、入殓、
+ 移柩、启钻、安葬、立碑\n忌：入宅、安床\n冲煞：冲虎(
+ 丙寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬申日 | 宜：塑绘、开光、出行等 | 忌：入宅、安
+ 床
+UID:20330121@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330122
+DTEND;VALUE=DATE:20330123
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-22 星期六\n农历：二〇三二年腊月
+ 廿二\n干支：壬子年 癸丑月 癸酉日\n宜：入殓、除服、
+ 成服、移柩、启钻、安葬、立碑、馀事勿取\n忌：破土、
+ 伐木\n冲煞：冲兔(丁卯) 煞东\n个人提示：时柱天克地冲
+ （癸克丁、酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸酉日 | 宜：入殓、除服、成服等 | 忌：破土、伐
+ 木
+UID:20330122@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330123
+DTEND;VALUE=DATE:20330124
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-23 星期日\n农历：二〇三二年腊月
+ 廿三\n干支：壬子年 癸丑月 甲戌日\n宜：祭祀、祈福、
+ 斋醮、塑绘、开光、除服、成服、入殓、作灶、嫁娶、
+ 捕捉、畋猎、纳财\n忌：开仓、盖屋、安葬、安床\n冲煞
+ ：冲龙(戊辰) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲戌日 | 宜：祭祀、祈福、斋醮等 | 忌：开仓、盖
+ 屋、安葬等
+UID:20330123@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330124
+DTEND;VALUE=DATE:20330125
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-24 星期一\n农历：二〇三二年腊月
+ 廿四\n干支：壬子年 癸丑月 乙亥日\n宜：祭祀、出行、
+ 沐浴、裁衣、祈福、斋醮、订盟、纳采、嫁娶、安机械
+ 、开市、立券、安碓磑、纳畜\n忌：栽种、入殓、安葬\n
+ 冲煞：冲蛇(己巳) 煞西\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:乙亥日 | 宜：祭祀、出行、沐浴等 | 忌：栽种、入
+ 殓、安葬
+UID:20330124@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330125
+DTEND;VALUE=DATE:20330126
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-25 星期二\n农历：二〇三二年腊月
+ 廿五\n干支：壬子年 癸丑月 丙子日\n宜：祭祀、祈福、
+ 斋醮、沐浴、安床、安机械、造车器、入殓、移柩、启
+ 钻、安葬、立碑、合帐、经络、交易\n忌：作灶、掘井、
+ 嫁娶、入宅\n冲煞：冲马(庚午) 煞南\n个人提示：与年柱
+ 相冲（子冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙子日 | 宜：祭祀、祈福、斋醮等 | 忌：作灶、掘
+ 井、嫁娶等
+UID:20330125@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330126
+DTEND;VALUE=DATE:20330127
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-26 星期三\n农历：二〇三二年腊月
+ 廿六\n干支：壬子年 癸丑月 丁丑日\n宜：解除、扫舍、
+ 祭祀、教牛马、馀事勿取\n忌：无\n冲煞：冲羊(辛未) 煞
+ 东\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁丑日 | 宜：解除、扫舍、祭祀等 | 忌：无
+UID:20330126@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330127
+DTEND;VALUE=DATE:20330128
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-27 星期四\n农历：二〇三二年腊月
+ 廿七\n干支：壬子年 癸丑月 戊寅日\n宜：开市、交易、
+ 立券、挂匾、开光、解除、伐木、作梁、出火、入宅、
+ 移徙、安床、拆卸、动土、上梁、栽种、纳畜、安葬\n忌
+ ：嫁娶、祭祀、出行、置产\n冲煞：冲猴(壬申) 煞北\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊寅日 | 宜：开市、交易、立券等 | 忌：嫁娶、祭
+ 祀、出行等
+UID:20330127@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330128
+DTEND;VALUE=DATE:20330129
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-28 星期五\n农历：二〇三二年腊月
+ 廿八\n干支：壬子年 癸丑月 己卯日\n宜：开市、交易、
+ 立券、纳财、开池、补垣、嫁娶、纳采、纳畜、取渔、
+ 安床\n忌：修造、上梁、入宅、祈福、探病、掘井、动土
+ 、安门、安葬、作灶\n冲煞：冲鸡(癸酉) 煞西\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:己卯日 | 宜：开市、交易、立券等 | 忌：修造、上
+ 梁、入宅等
+UID:20330128@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330129
+DTEND;VALUE=DATE:20330130
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-29 星期六\n农历：二〇三二年腊月
+ 廿九\n干支：壬子年 癸丑月 庚辰日\n宜：祭祀、解除、
+ 修饰垣墙、平治道涂、馀事勿取\n忌：无\n冲煞：冲狗(甲
+ 戌) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚辰日 | 宜：祭祀、解除、修饰垣墙等 | 忌：无
+UID:20330129@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330130
+DTEND;VALUE=DATE:20330131
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-30 星期日\n农历：二〇三二年腊月
+ 三十\n干支：壬子年 癸丑月 辛巳日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、动土、会亲友、起基、造仓、纳畜、牧养
+ 、开厕、进人口\n忌：掘井、安葬、栽种、出行、作灶、
+ 开市、入宅、安门\n冲煞：冲猪(乙亥) 煞东\n个人提示：
+ 与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:辛巳日 | 宜：嫁娶、祭祀、祈福等 | 忌：掘井、安
+ 葬、栽种等
+UID:20330130@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330131
+DTEND;VALUE=DATE:20330201
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-01-31 星期一\n农历：二〇三三年正月
+ 初一\n干支：癸丑年 癸丑月 壬午日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、入宅、移徙、安床、修造、动土、
+ 进人口\n忌：掘井、安葬、栽种、出行、作灶、开市、安
+ 门\n冲煞：冲鼠(丙子) 煞北\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:壬午日 | 宜：嫁娶、祭祀、祈福等 | 忌：掘井、安
+ 葬、栽种等
+UID:20330131@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330201
+DTEND;VALUE=DATE:20330202
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-01 星期二\n农历：二〇三三年正月
+ 初二\n干支：癸丑年 癸丑月 癸未日\n宜：破屋、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲牛(丁丑) 煞西\n个人
+ 提示：与日柱相冲（未冲丑）\n命主：男 · 壬午 辛亥 己
+ 丑 丁卯
+SUMMARY:癸未日 | 宜：破屋、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330201@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330202
+DTEND;VALUE=DATE:20330203
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-02 星期三\n农历：二〇三三年正月
+ 初三\n干支：癸丑年 癸丑月 甲申日\n宜：嫁娶、开市、
+ 交易、立券、开光、出行、出火、拆卸、修造、入宅、
+ 移徙、动土、破土、移柩、安葬、启钻、除服、成服\n忌
+ ：安床、伐木、祈福、纳畜\n冲煞：冲虎(戊寅) 煞南\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲申日 | 宜：嫁娶、开市、交易等 | 忌：安床、伐
+ 木、祈福等
+UID:20330202@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330203
+DTEND;VALUE=DATE:20330204
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-03 星期四\n农历：二〇三三年正月
+ 初四\n干支：癸丑年 甲寅月 乙酉日\n宜：祭祀、冠笄、
+ 嫁娶、拆卸、修造、动土、起基、上梁、盖屋、入宅、
+ 开市、开池、塞穴、入殓、除服、成服、移柩、安葬、
+ 破土\n忌：安床、栽种、治病、作灶\n冲煞：冲兔(己卯) 
+ 煞东\n节气：立春\n个人提示：与时柱相冲（酉冲卯）\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙酉日 | 宜：祭祀、冠笄、嫁娶等 | 忌：安床、栽
+ 种、治病等
+UID:20330203@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330204
+DTEND;VALUE=DATE:20330205
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-04 星期五\n农历：二〇三三年正月
+ 初五\n干支：癸丑年 甲寅月 丙戌日\n宜：祭祀、结网、
+ 入殓、除服、成服、移柩、安葬、破土\n忌：馀事勿取\n
+ 冲煞：冲龙(庚辰) 煞北\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:丙戌日 | 宜：祭祀、结网、入殓等 | 忌：馀事勿取
+UID:20330204@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330205
+DTEND;VALUE=DATE:20330206
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-05 星期六\n农历：二〇三三年正月
+ 初六\n干支：癸丑年 甲寅月 丁亥日\n宜：塑绘、开光、
+ 祈福、求嗣、订盟、纳采、裁衣、冠笄、拆卸、修造、
+ 动土、起基、安门、安床、移徙、造仓、结网、纳畜\n忌
+ ：伐木、作灶、安葬、取渔、入宅\n冲煞：冲蛇(辛巳) 煞
+ 西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁亥日 | 宜：塑绘、开光、祈福等 | 忌：伐木、作
+ 灶、安葬等
+UID:20330205@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330206
+DTEND;VALUE=DATE:20330207
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-06 星期日\n农历：二〇三三年正月
+ 初七\n干支：癸丑年 甲寅月 戊子日\n宜：祭祀、沐浴、
+ 开光、塑绘、祈福、求嗣、订盟、纳采、冠笄、裁衣、
+ 嫁娶、动土、除服、成服、移柩、破土、启钻、出行、
+ 安碓磑、放水、开市、立券、交易\n忌：安葬、上梁、入
+ 宅、作灶\n冲煞：冲马(壬午) 煞南\n个人提示：年柱天克
+ 地冲（戊克壬、子冲午）\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:戊子日 | 宜：祭祀、沐浴、开光等 | 忌：安葬、上
+ 梁、入宅等
+UID:20330206@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330207
+DTEND;VALUE=DATE:20330208
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-07 星期一\n农历：二〇三三年正月
+ 初八\n干支：癸丑年 甲寅月 己丑日\n宜：祭祀、祈福、
+ 求嗣、酬神、裁衣、安床、立券、交易、入殓、除服、
+ 成服、移柩、谢土、启钻\n忌：出行、嫁娶、入宅、动土
+ \n冲煞：冲羊(癸未) 煞东\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:己丑日 | 宜：祭祀、祈福、求嗣等 | 忌：出行、嫁
+ 娶、入宅等
+UID:20330207@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330208
+DTEND;VALUE=DATE:20330209
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-08 星期二\n农历：二〇三三年正月
+ 初九\n干支：癸丑年 甲寅月 庚寅日\n宜：裁衣、合帐、
+ 入殓、除服、成服、会亲友、纳财\n忌：祭祀、祈福、移
+ 徙、嫁娶、入宅\n冲煞：冲猴(甲申) 煞北\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:庚寅日 | 宜：裁衣、合帐、入殓等 | 忌：祭祀、祈
+ 福、移徙等
+UID:20330208@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330209
+DTEND;VALUE=DATE:20330210
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-09 星期三\n农历：二〇三三年正月
+ 初十\n干支：癸丑年 甲寅月 辛卯日\n宜：祭祀、斋醮、
+ 裁衣、合帐、冠笄、订盟、纳采、嫁娶、入宅、安香、
+ 谢土、入殓、移柩、破土、立碑、会亲友、出行、祈福
+ 、求嗣、上梁、放水\n忌：掘井\n冲煞：冲鸡(乙酉) 煞西
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛卯日 | 宜：祭祀、斋醮、裁衣等 | 忌：掘井
+UID:20330209@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330210
+DTEND;VALUE=DATE:20330211
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-10 星期四\n农历：二〇三三年正月
+ 十一\n干支：癸丑年 甲寅月 壬辰日\n宜：安床、合帐、
+ 入宅、问名、纳采、求嗣、祭祀、开仓\n忌：斋醮、作灶
+ 、安葬\n冲煞：冲狗(丙戌) 煞南\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:壬辰日 | 宜：安床、合帐、入宅等 | 忌：斋醮、作
+ 灶、安葬
+UID:20330210@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330211
+DTEND;VALUE=DATE:20330212
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-11 星期五\n农历：二〇三三年正月
+ 十二\n干支：癸丑年 甲寅月 癸巳日\n宜：作灶、平治道
+ 涂\n忌：祭祀、祈福、安葬、安门、馀事勿取\n冲煞：冲
+ 猪(丁亥) 煞东\n个人提示：与月柱相冲（巳冲亥）\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸巳日 | 宜：作灶、平治道涂 | 忌：祭祀、祈福、
+ 安葬等
+UID:20330211@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330212
+DTEND;VALUE=DATE:20330213
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-12 星期六\n农历：二〇三三年正月
+ 十三\n干支：癸丑年 甲寅月 甲午日\n宜：塑绘、开光、
+ 酬神、斋醮、订盟、纳采、裁衣、合帐、拆卸、动土、
+ 上梁、安床、安香、造庙、挂匾、会亲友、进人口、出
+ 行、修造、纳财、伐木、放水、出火、纳畜、沐浴、安
+ 门\n忌：盖屋、栽种、安葬、作灶\n冲煞：冲鼠(戊子) 煞
+ 北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲午日 | 宜：塑绘、开光、酬神等 | 忌：盖屋、栽
+ 种、安葬等
+UID:20330212@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330213
+DTEND;VALUE=DATE:20330214
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-13 星期日\n农历：二〇三三年正月
+ 十四\n干支：癸丑年 甲寅月 乙未日\n宜：祭祀、祈福、
+ 酬神、订盟、纳采、冠笄、裁衣、合帐、嫁娶、安床、
+ 移徙、入宅、安香、入殓、移柩、启钻、安葬、解除、
+ 取渔、捕捉、伐木、安门、出火\n忌：栽种、动土、开市
+ 、作灶\n冲煞：冲牛(己丑) 煞西\n个人提示：日柱天克地
+ 冲（乙克己、未冲丑）\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:乙未日 | 宜：祭祀、祈福、酬神等 | 忌：栽种、动
+ 土、开市等
+UID:20330213@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330214
+DTEND;VALUE=DATE:20330215
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-14 星期一\n农历：二〇三三年正月
+ 十五\n干支：癸丑年 甲寅月 丙申日\n宜：求医、破屋\n忌
+ ：诸事不宜\n冲煞：冲虎(庚寅) 煞南\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:丙申日 | 宜：求医、破屋 | 忌：诸事不宜
+UID:20330214@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330215
+DTEND;VALUE=DATE:20330216
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-15 星期二\n农历：二〇三三年正月
+ 十六\n干支：癸丑年 甲寅月 丁酉日\n宜：祈福、求嗣、
+ 斋醮、塑绘、开光、订盟、纳采、嫁娶、动土、入宅、
+ 安香、移柩、安葬、谢土、出行、沐浴、修造、竖柱、
+ 上梁、纳财、破土、解除、安门、放水\n忌：作灶、安床
+ \n冲煞：冲兔(辛卯) 煞东\n个人提示：与时柱相冲（酉冲
+ 卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁酉日 | 宜：祈福、求嗣、斋醮等 | 忌：作灶、安
+ 床
+UID:20330215@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330216
+DTEND;VALUE=DATE:20330217
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-16 星期三\n农历：二〇三三年正月
+ 十七\n干支：癸丑年 甲寅月 戊戌日\n宜：取渔、入殓、
+ 除服、成服、移柩、破土、安葬、立碑\n忌：嫁娶、上梁
+ 、入宅、作灶\n冲煞：冲龙(壬辰) 煞北\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:戊戌日 | 宜：取渔、入殓、除服等 | 忌：嫁娶、上
+ 梁、入宅等
+UID:20330216@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330217
+DTEND;VALUE=DATE:20330218
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-17 星期四\n农历：二〇三三年正月
+ 十八\n干支：癸丑年 甲寅月 己亥日\n宜：祭祀、求嗣、
+ 沐浴、酬神、订盟、纳采、裁衣、合帐、冠笄、安机械
+ 、安床、造仓、开池、经络、纳财、开市、立券、交易
+ 、结网、取渔、纳畜、捕捉\n忌：安葬、作灶、伐木、作
+ 梁\n冲煞：冲蛇(癸巳) 煞西\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:己亥日 | 宜：祭祀、求嗣、沐浴等 | 忌：安葬、作
+ 灶、伐木等
+UID:20330217@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330218
+DTEND;VALUE=DATE:20330219
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-18 星期五\n农历：二〇三三年正月
+ 十九\n干支：癸丑年 甲寅月 庚子日\n宜：祭祀、沐浴、
+ 祈福、求嗣、斋醮、订盟、纳采、裁衣、冠笄、开市、
+ 立券、交易、纳财、除服、谢土、出行、移柩\n忌：入殓
+ 、安葬、作灶、入宅\n冲煞：冲马(甲午) 煞南\n节气：雨
+ 水\n个人提示：与年柱相冲（子冲午）\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:庚子日 | 宜：祭祀、沐浴、祈福等 | 忌：入殓、安
+ 葬、作灶等
+UID:20330218@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330219
+DTEND;VALUE=DATE:20330220
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-19 星期六\n农历：二〇三三年正月
+ 二十\n干支：癸丑年 甲寅月 辛丑日\n宜：祭祀、祈福、
+ 求嗣、入殓、启钻、安葬、移柩\n忌：开光、掘井、针灸
+ 、出行、嫁娶、入宅、移徙、作灶、动土\n冲煞：冲羊(
+ 乙未) 煞东\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛丑日 | 宜：祭祀、祈福、求嗣等 | 忌：开光、掘
+ 井、针灸等
+UID:20330219@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330220
+DTEND;VALUE=DATE:20330221
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-20 星期日\n农历：二〇三三年正月
+ 廿一\n干支：癸丑年 甲寅月 壬寅日\n宜：安床、解除、
+ 裁衣、竖柱、上梁、交易、立券、纳财、纳畜、牧养、
+ 入殓、移柩、安葬、启钻\n忌：嫁娶、出行、动土、开渠
+ 、入宅、祭祀、掘井\n冲煞：冲猴(丙申) 煞北\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬寅日 | 宜：安床、解除、裁衣等 | 忌：嫁娶、出
+ 行、动土等
+UID:20330220@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330221
+DTEND;VALUE=DATE:20330222
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-21 星期一\n农历：二〇三三年正月
+ 廿二\n干支：癸丑年 甲寅月 癸卯日\n宜：嫁娶、安床、
+ 开光、出行、祭祀、动土、出火、解除、会亲友、开市
+ 、交易、立券、挂匾、入宅、移徙、拆卸、破土、启钻
+ 、安葬\n忌：掘井、词讼\n冲煞：冲鸡(丁酉) 煞西\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸卯日 | 宜：嫁娶、安床、开光等 | 忌：掘井、词
+ 讼
+UID:20330221@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330222
+DTEND;VALUE=DATE:20330223
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-22 星期二\n农历：二〇三三年正月
+ 廿三\n干支：癸丑年 甲寅月 甲辰日\n宜：嫁娶、开光、
+ 求嗣、会亲友、安床、牧养、塑绘、针灸\n忌：入宅、移
+ 徙、出火、分居、安香、作灶、开市、交易、立券、安
+ 葬、动土、伐木\n冲煞：冲狗(戊戌) 煞南\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:甲辰日 | 宜：嫁娶、开光、求嗣等 | 忌：入宅、移
+ 徙、出火等
+UID:20330222@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330223
+DTEND;VALUE=DATE:20330224
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-23 星期三\n农历：二〇三三年正月
+ 廿四\n干支：癸丑年 甲寅月 乙巳日\n宜：作灶、解除、
+ 平治道涂\n忌：栽种、出行、祈福、行丧、纳畜、安葬、
+ 安门、伐木、作梁、牧养\n冲煞：冲猪(己亥) 煞东\n个人
+ 提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛亥 己
+ 丑 丁卯
+SUMMARY:乙巳日 | 宜：作灶、解除、平治道涂 | 忌：栽种、
+ 出行、祈福等
+UID:20330223@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330224
+DTEND;VALUE=DATE:20330225
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-24 星期四\n农历：二〇三三年正月
+ 廿五\n干支：癸丑年 甲寅月 丙午日\n宜：解除、沐浴\n忌
+ ：诸事不宜\n冲煞：冲鼠(庚子) 煞北\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:丙午日 | 宜：解除、沐浴 | 忌：诸事不宜
+UID:20330224@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330225
+DTEND;VALUE=DATE:20330226
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-25 星期五\n农历：二〇三三年正月
+ 廿六\n干支：癸丑年 甲寅月 丁未日\n宜：嫁娶、祭祀、
+ 祈福、出行、解除、出火、拆卸、动土、入宅、移徙、
+ 安床、上梁、栽种、纳畜、破土、启钻、安葬\n忌：开市
+ 、立券、理发、作灶\n冲煞：冲牛(辛丑) 煞西\n个人提示
+ ：与日柱相冲（未冲丑）\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:丁未日 | 宜：嫁娶、祭祀、祈福等 | 忌：开市、立
+ 券、理发等
+UID:20330225@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330226
+DTEND;VALUE=DATE:20330227
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-26 星期六\n农历：二〇三三年正月
+ 廿七\n干支：癸丑年 甲寅月 戊申日\n宜：祭祀、解除、
+ 治病、破屋、坏垣、扫舍\n忌：馀事勿取\n冲煞：冲虎(壬
+ 寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊申日 | 宜：祭祀、解除、治病等 | 忌：馀事勿取
+UID:20330226@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330227
+DTEND;VALUE=DATE:20330228
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-27 星期日\n农历：二〇三三年正月
+ 廿八\n干支：癸丑年 甲寅月 己酉日\n宜：祭祀、祈福、
+ 求嗣、开光、出火、出行、拆卸、修造、动土、入宅、
+ 移徙、上梁、挂匾、开池、入殓、安葬、破土、启钻\n忌
+ ：嫁娶、作灶、安床\n冲煞：冲兔(癸卯) 煞东\n个人提示
+ ：与时柱相冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:己酉日 | 宜：祭祀、祈福、求嗣等 | 忌：嫁娶、作
+ 灶、安床
+UID:20330227@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330228
+DTEND;VALUE=DATE:20330301
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-02-28 星期一\n农历：二〇三三年正月
+ 廿九\n干支：癸丑年 甲寅月 庚戌日\n宜：结网、入殓、
+ 除服、成服、移柩、安葬、破土\n忌：诸事不宜\n冲煞：
+ 冲龙(甲辰) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚戌日 | 宜：结网、入殓、除服等 | 忌：诸事不宜
+UID:20330228@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330301
+DTEND;VALUE=DATE:20330302
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-01 星期二\n农历：二〇三三年二月
+ 初一\n干支：癸丑年 甲寅月 辛亥日\n宜：移徙、祭祀、
+ 开光、祈福、出行、解除、进人口、雇佣、安床、动土
+ 、起基、上梁、安门\n忌：嫁娶、安葬、破土、作梁、纳
+ 畜、牧养、行丧、作灶\n冲煞：冲蛇(乙巳) 煞西\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛亥日 | 宜：移徙、祭祀、开光等 | 忌：嫁娶、安
+ 葬、破土等
+UID:20330301@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330302
+DTEND;VALUE=DATE:20330303
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-02 星期三\n农历：二〇三三年二月
+ 初二\n干支：癸丑年 甲寅月 壬子日\n宜：嫁娶、开光、
+ 祈福、求嗣、解除、动土、安床、栽种、开池、掘井、
+ 祭祀、破土、启钻\n忌：入宅、作灶、伐木、安葬、出火
+ 、出行、纳畜\n冲煞：冲马(丙午) 煞南\n个人提示：与年
+ 柱相冲（子冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬子日 | 宜：嫁娶、开光、祈福等 | 忌：入宅、作
+ 灶、伐木等
+UID:20330302@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330303
+DTEND;VALUE=DATE:20330304
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-03 星期四\n农历：二〇三三年二月
+ 初三\n干支：癸丑年 甲寅月 癸丑日\n宜：祭祀、合帐、
+ 裁衣、经络、伐木、作梁、安床、作灶、入殓、安葬、
+ 启钻、移柩\n忌：词讼、出火、入宅\n冲煞：冲羊(丁未) 
+ 煞东\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸丑日 | 宜：祭祀、合帐、裁衣等 | 忌：词讼、出
+ 火、入宅
+UID:20330303@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330304
+DTEND;VALUE=DATE:20330305
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-04 星期五\n农历：二〇三三年二月
+ 初四\n干支：癸丑年 甲寅月 甲寅日\n宜：裁衣、伐木、
+ 作梁、纳财、交易、立券\n忌：诸事不宜\n冲煞：冲猴(戊
+ 申) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲寅日 | 宜：裁衣、伐木、作梁等 | 忌：诸事不宜
+UID:20330304@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330305
+DTEND;VALUE=DATE:20330306
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-05 星期六\n农历：二〇三三年二月
+ 初五\n干支：癸丑年 乙卯月 乙卯日\n宜：祭祀、会亲友
+ 、立券、交易、裁衣、合帐、嫁娶、冠笄、进人口\n忌：
+ 栽种、动土、安葬、掘井、修坟、探病\n冲煞：冲鸡(己
+ 酉) 煞西\n节气：惊蛰\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙卯日 | 宜：祭祀、会亲友、立券等 | 忌：栽种、
+ 动土、安葬等
+UID:20330305@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330306
+DTEND;VALUE=DATE:20330307
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-06 星期日\n农历：二〇三三年二月
+ 初六\n干支：癸丑年 乙卯月 丙辰日\n宜：扫舍、塞穴、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲狗(庚戌) 煞南\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙辰日 | 宜：扫舍、塞穴、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330306@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330307
+DTEND;VALUE=DATE:20330308
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-07 星期一\n农历：二〇三三年二月
+ 初七\n干支：癸丑年 乙卯月 丁巳日\n宜：塑绘、开光、
+ 订盟、纳采、裁衣、合帐、冠笄、安机械、会亲友、纳
+ 财、开市、立券、交易、安床、竖柱、上梁、结网、栽
+ 种、解除、经络\n忌：作灶、出行、入宅、安葬\n冲煞：
+ 冲猪(辛亥) 煞东\n个人提示：月柱天克地冲（丁克辛、巳
+ 冲亥）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁巳日 | 宜：塑绘、开光、订盟等 | 忌：作灶、出
+ 行、入宅等
+UID:20330307@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330308
+DTEND;VALUE=DATE:20330309
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-08 星期二\n农历：二〇三三年二月
+ 初八\n干支：癸丑年 乙卯月 戊午日\n宜：祭祀、嫁娶、
+ 纳婿、除服、成服、入殓、移柩\n忌：动土、作灶、入宅
+ 、开光、安床\n冲煞：冲鼠(壬子) 煞北\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:戊午日 | 宜：祭祀、嫁娶、纳婿等 | 忌：动土、作
+ 灶、入宅等
+UID:20330308@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330309
+DTEND;VALUE=DATE:20330310
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-09 星期三\n农历：二〇三三年二月
+ 初九\n干支：癸丑年 乙卯月 己未日\n宜：祈福、求嗣、
+ 开光、塑绘、斋醮、订盟、纳采、嫁娶、拆卸、安床、
+ 入宅、安香、移柩、修坟、安葬、谢土、栽种、解除、
+ 冠笄、裁衣、移徙、修造、动土、竖柱、放水、启钻、
+ 立碑\n忌：赴任\n冲煞：冲牛(癸丑) 煞西\n个人提示：与
+ 日柱相冲（未冲丑）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己未日 | 宜：祈福、求嗣、开光等 | 忌：赴任
+UID:20330309@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330310
+DTEND;VALUE=DATE:20330311
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-10 星期四\n农历：二〇三三年二月
+ 初十\n干支：癸丑年 乙卯月 庚申日\n宜：祭祀、解除、
+ 入殓、除服、成服、移柩、启钻、安葬、修坟、立碑、
+ 谢土、沐浴、扫舍、捕捉、取渔、结网、畋猎、理发\n忌
+ ：安床、嫁娶、作灶、入宅\n冲煞：冲虎(甲寅) 煞南\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚申日 | 宜：祭祀、解除、入殓等 | 忌：安床、嫁
+ 娶、作灶等
+UID:20330310@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330311
+DTEND;VALUE=DATE:20330312
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-11 星期五\n农历：二〇三三年二月
+ 十一\n干支：癸丑年 乙卯月 辛酉日\n宜：破屋、坏垣\n忌
+ ：诸事不宜\n冲煞：冲兔(乙卯) 煞东\n个人提示：与时柱
+ 相冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛酉日 | 宜：破屋、坏垣 | 忌：诸事不宜
+UID:20330311@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330312
+DTEND;VALUE=DATE:20330313
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-12 星期六\n农历：二〇三三年二月
+ 十二\n干支：癸丑年 乙卯月 壬戌日\n宜：祭祀、出行、
+ 订盟、纳采、裁衣、合帐、冠笄、进人口、动土、安床
+ 、作灶、入殓、移柩、安葬、破土、结网、取渔、畋猎\n
+ 忌：作梁、造庙\n冲煞：冲龙(丙辰) 煞北\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:壬戌日 | 宜：祭祀、出行、订盟等 | 忌：作梁、造
+ 庙
+UID:20330312@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330313
+DTEND;VALUE=DATE:20330314
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-13 星期日\n农历：二〇三三年二月
+ 十三\n干支：癸丑年 乙卯月 癸亥日\n宜：祭祀、开光、
+ 塑绘、订盟、纳采、合帐、冠笄、拆卸、动土、起基、
+ 上梁、入宅、安香、开市、立券、纳财、沐浴、求嗣、
+ 出火、竖柱、安门\n忌：造庙、嫁娶、伐木、安葬\n冲煞
+ ：冲蛇(丁巳) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸亥日 | 宜：祭祀、开光、塑绘等 | 忌：造庙、嫁
+ 娶、伐木等
+UID:20330313@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330314
+DTEND;VALUE=DATE:20330315
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-14 星期一\n农历：二〇三三年二月
+ 十四\n干支：癸丑年 乙卯月 甲子日\n宜：祭祀、沐浴、
+ 捕捉、栽种\n忌：嫁娶、入宅、移徙、作灶、安葬\n冲煞
+ ：冲马(戊午) 煞南\n个人提示：与年柱相冲（子冲午）\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲子日 | 宜：祭祀、沐浴、捕捉等 | 忌：嫁娶、入
+ 宅、移徙等
+UID:20330314@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330315
+DTEND;VALUE=DATE:20330316
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-15 星期二\n农历：二〇三三年二月
+ 十五\n干支：癸丑年 乙卯月 乙丑日\n宜：祭祀、开光、
+ 塑绘、酬神、斋醮、订盟、纳采、嫁娶、裁衣、动土、
+ 起基、出火、拆卸、移徙、入宅、安香、修造、竖柱、
+ 上梁、纳畜、牧养、祈福、求嗣、解除、伐木、定磉、
+ 盖屋、安门\n忌：栽种、安葬\n冲煞：冲羊(己未) 煞东\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙丑日 | 宜：祭祀、开光、塑绘等 | 忌：栽种、安
+ 葬
+UID:20330315@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330316
+DTEND;VALUE=DATE:20330317
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-16 星期三\n农历：二〇三三年二月
+ 十六\n干支：癸丑年 乙卯月 丙寅日\n宜：订盟、纳采、
+ 冠笄、拆卸、修造、动土、安床、入殓、除服、成服、
+ 移柩、安葬、破土、启钻、造仓\n忌：作灶、开光、嫁娶
+ 、开市、入宅\n冲煞：冲猴(庚申) 煞北\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:丙寅日 | 宜：订盟、纳采、冠笄等 | 忌：作灶、开
+ 光、嫁娶等
+UID:20330316@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330317
+DTEND;VALUE=DATE:20330318
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-17 星期四\n农历：二〇三三年二月
+ 十七\n干支：癸丑年 乙卯月 丁卯日\n宜：祈福、开光、
+ 塑绘、酬神、订盟、纳采、裁衣、安床、开市、立券、
+ 入殓、除服、成服、移柩、启钻、安葬、立碑、赴任、
+ 会亲友、出行、交易、竖柱\n忌：作灶、掘井、动土、栽
+ 种\n冲煞：冲鸡(辛酉) 煞西\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:丁卯日 | 宜：祈福、开光、塑绘等 | 忌：作灶、掘
+ 井、动土等
+UID:20330317@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330318
+DTEND;VALUE=DATE:20330319
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-18 星期五\n农历：二〇三三年二月
+ 十八\n干支：癸丑年 乙卯月 戊辰日\n宜：祭祀、扫舍、
+ 塞穴\n忌：栽种、作灶、安葬、嫁娶\n冲煞：冲狗(壬戌) 
+ 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊辰日 | 宜：祭祀、扫舍、塞穴 | 忌：栽种、作灶
+ 、安葬等
+UID:20330318@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330319
+DTEND;VALUE=DATE:20330320
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-19 星期六\n农历：二〇三三年二月
+ 十九\n干支：癸丑年 乙卯月 己巳日\n宜：开光、塑绘、
+ 裁衣、冠笄、伐木、拆卸、竖柱、上梁、开仓、会亲友
+ 、安机械、造仓、盖屋、交易、解除、开市、立券、纳
+ 财\n忌：出行、嫁娶、入宅、安葬\n冲煞：冲猪(癸亥) 煞
+ 东\n个人提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:己巳日 | 宜：开光、塑绘、裁衣等 | 忌：出行、嫁
+ 娶、入宅等
+UID:20330319@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330320
+DTEND;VALUE=DATE:20330321
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-20 星期日\n农历：二〇三三年二月
+ 二十\n干支：癸丑年 乙卯月 庚午日\n宜：冠笄、入殓、
+ 除服、成服、移柩、平治道涂、修饰垣墙\n忌：盖屋、作
+ 灶、治病、探病\n冲煞：冲鼠(甲子) 煞北\n节气：春分\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚午日 | 宜：冠笄、入殓、除服等 | 忌：盖屋、作
+ 灶、治病等
+UID:20330320@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330321
+DTEND;VALUE=DATE:20330322
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-21 星期一\n农历：二〇三三年二月
+ 廿一\n干支：癸丑年 乙卯月 辛未日\n宜：祭祀、嫁娶、
+ 祈福、纳采、裁衣、合帐、安床、入宅、安香、入殓、
+ 移柩、安葬、谢土、修造、安碓磑、求嗣、会亲友、挂
+ 匾、交易、立券、纳财、造仓、放水\n忌：栽种、伐木\n
+ 冲煞：冲牛(乙丑) 煞西\n个人提示：与日柱相冲（未冲丑
+ ）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛未日 | 宜：祭祀、嫁娶、祈福等 | 忌：栽种、伐
+ 木
+UID:20330321@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330322
+DTEND;VALUE=DATE:20330323
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-22 星期二\n农历：二〇三三年二月
+ 廿二\n干支：癸丑年 乙卯月 壬申日\n宜：祭祀、祈福、
+ 斋醮、订盟、纳采、裁衣、合帐、拆卸、修造、动土、
+ 上梁、起基、移柩、安葬、谢土、沐浴、扫舍、开柱眼
+ 、伐木、出火\n忌：安床、开市、立券、作灶\n冲煞：冲
+ 虎(丙寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬申日 | 宜：祭祀、祈福、斋醮等 | 忌：安床、开
+ 市、立券等
+UID:20330322@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330323
+DTEND;VALUE=DATE:20330324
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-23 星期三\n农历：二〇三三年二月
+ 廿三\n干支：癸丑年 乙卯月 癸酉日\n宜：破屋、坏垣、
+ 求医、治病\n忌：诸事不宜\n冲煞：冲兔(丁卯) 煞东\n个
+ 人提示：时柱天克地冲（癸克丁、酉冲卯）\n命主：男 ·
+  壬午 辛亥 己丑 丁卯
+SUMMARY:癸酉日 | 宜：破屋、坏垣、求医等 | 忌：诸事不宜
+UID:20330323@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330324
+DTEND;VALUE=DATE:20330325
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-24 星期四\n农历：二〇三三年二月
+ 廿四\n干支：癸丑年 乙卯月 甲戌日\n宜：祭祀、动土、
+ 上梁、订盟、纳采、嫁娶、安机械、拆卸、安床、入宅
+ 、安香、入殓、移柩、破土、安葬、立碑、谢土、赴任
+ 、出行、移徙、祈福、求嗣、解除、造仓、进人口\n忌：
+ 开光、出货财\n冲煞：冲龙(戊辰) 煞北\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:甲戌日 | 宜：祭祀、动土、上梁等 | 忌：开光、出
+ 货财
+UID:20330324@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330325
+DTEND;VALUE=DATE:20330326
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-25 星期五\n农历：二〇三三年二月
+ 廿五\n干支：癸丑年 乙卯月 乙亥日\n宜：祭祀、开光、
+ 塑绘、纳采、裁衣、拆卸、安床、起基、动土、竖柱、
+ 上梁、移徙、入宅、安香、开市、立券、挂匾、沐浴、
+ 出行、求嗣、安门\n忌：嫁娶、栽种、伐木、安葬\n冲煞
+ ：冲蛇(己巳) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙亥日 | 宜：祭祀、开光、塑绘等 | 忌：嫁娶、栽
+ 种、伐木等
+UID:20330325@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330326
+DTEND;VALUE=DATE:20330327
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-26 星期六\n农历：二〇三三年二月
+ 廿六\n干支：癸丑年 乙卯月 丙子日\n宜：裁衣、合帐、
+ 冠笄、嫁娶、纳婿、安床、入殓、纳财\n忌：作灶、开市
+ 、安葬、作梁\n冲煞：冲马(庚午) 煞南\n个人提示：与年
+ 柱相冲（子冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙子日 | 宜：裁衣、合帐、冠笄等 | 忌：作灶、开
+ 市、安葬等
+UID:20330326@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330327
+DTEND;VALUE=DATE:20330328
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-27 星期日\n农历：二〇三三年二月
+ 廿七\n干支：癸丑年 乙卯月 丁丑日\n宜：祭祀、订盟、
+ 纳采、修造、动土、祈福、塑绘、斋醮、沐浴、拆卸、
+ 起基、入宅、安香、造庙、移柩、谢土、除服、成服、
+ 入学、习艺、出行、竖柱、上梁、掘井、求嗣、解除、
+ 伐木\n忌：作灶、安葬、开市、盖屋\n冲煞：冲羊(辛未) 
+ 煞东\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁丑日 | 宜：祭祀、订盟、纳采等 | 忌：作灶、安
+ 葬、开市等
+UID:20330327@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330328
+DTEND;VALUE=DATE:20330329
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-28 星期一\n农历：二〇三三年二月
+ 廿八\n干支：癸丑年 乙卯月 戊寅日\n宜：订盟、纳采、
+ 裁衣、合帐、冠笄、安机械、拆卸、安床、入殓、除服
+ 、成服、移柩、破土、启钻、安葬、修坟、立碑、经络
+ 、交易、立券、纳财、筑堤、造仓、补垣、塞穴、纳畜
+ 、伐木、架马\n忌：祭祀、开光、嫁娶、入宅\n冲煞：冲
+ 猴(壬申) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊寅日 | 宜：订盟、纳采、裁衣等 | 忌：祭祀、开
+ 光、嫁娶等
+UID:20330328@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330329
+DTEND;VALUE=DATE:20330330
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-29 星期二\n农历：二〇三三年二月
+ 廿九\n干支：癸丑年 乙卯月 己卯日\n宜：祭祀、出行、
+ 嫁娶、冠笄、安床、入殓、移柩、安葬\n忌：掘井、动土
+ 、作灶、栽种\n冲煞：冲鸡(癸酉) 煞西\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:己卯日 | 宜：祭祀、出行、嫁娶等 | 忌：掘井、动
+ 土、作灶等
+UID:20330329@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330330
+DTEND;VALUE=DATE:20330331
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-30 星期三\n农历：二〇三三年二月
+ 三十\n干支：癸丑年 乙卯月 庚辰日\n宜：塞穴、诸事不
+ 宜\n忌：安门、作灶、安葬、嫁娶\n冲煞：冲狗(甲戌) 煞
+ 南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚辰日 | 宜：塞穴、诸事不宜 | 忌：安门、作灶、
+ 安葬等
+UID:20330330@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330331
+DTEND;VALUE=DATE:20330401
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-03-31 星期四\n农历：二〇三三年三月
+ 初一\n干支：癸丑年 乙卯月 辛巳日\n宜：开光、塑绘、
+ 求嗣、纳采、裁衣、合帐、冠笄、安机械、作梁、开柱
+ 眼、安门、安床、造仓、祭祀、会亲友、祈福、经络、
+ 纳财、开市、立券、交易、入学、理发、架马\n忌：出行
+ 、斋醮、安葬、嫁娶\n冲煞：冲猪(乙亥) 煞东\n个人提示
+ ：与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:辛巳日 | 宜：开光、塑绘、求嗣等 | 忌：出行、斋
+ 醮、安葬等
+UID:20330331@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330401
+DTEND;VALUE=DATE:20330402
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-01 星期五\n农历：二〇三三年三月
+ 初二\n干支：癸丑年 乙卯月 壬午日\n宜：祭祀、嫁娶、
+ 纳婿、安葬\n忌：栽种、盖屋、作灶、入宅\n冲煞：冲鼠(
+ 丙子) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬午日 | 宜：祭祀、嫁娶、纳婿等 | 忌：栽种、盖
+ 屋、作灶等
+UID:20330401@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330402
+DTEND;VALUE=DATE:20330403
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-02 星期六\n农历：二〇三三年三月
+ 初三\n干支：癸丑年 乙卯月 癸未日\n宜：祭祀、会亲友
+ 、订盟、裁衣、合帐、安机械、拆卸、上梁、安门、入
+ 殓、除服、成服、移柩、启钻、安葬、立碑、开光、塑
+ 绘、入学、出行、起基、定磉、放水、移徙、入宅、竖
+ 柱、立券、经络\n忌：伐木、作梁\n冲煞：冲牛(丁丑) 煞
+ 西\n个人提示：与日柱相冲（未冲丑）\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:癸未日 | 宜：祭祀、会亲友、订盟等 | 忌：伐木、
+ 作梁
+UID:20330402@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330403
+DTEND;VALUE=DATE:20330404
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-03 星期日\n农历：二〇三三年三月
+ 初四\n干支：癸丑年 乙卯月 甲申日\n宜：祭祀、开光、
+ 塑绘、祈福、斋醮、裁衣、合帐、冠笄、嫁娶、拆卸、
+ 动土、移徙、入宅、入殓、移柩、安葬、谢土、求嗣、
+ 入学、理发、伐木、架马、作梁、出火、修造、起基、
+ 定磉、放水、赴任\n忌：安门\n冲煞：冲虎(戊寅) 煞南\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲申日 | 宜：祭祀、开光、塑绘等 | 忌：安门
+UID:20330403@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330404
+DTEND;VALUE=DATE:20330405
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-04 星期一\n农历：二〇三三年三月
+ 初五\n干支：癸丑年 丙辰月 乙酉日\n宜：祭祀、祈福、
+ 开光、求嗣、斋醮、纳采、订盟、求医、治病、起基、
+ 定磉、造船、取渔、解除、安葬、启钻、谢土、入殓\n忌
+ ：开市、动土、掘井、开池\n冲煞：冲兔(己卯) 煞东\n节
+ 气：清明\n个人提示：与时柱相冲（酉冲卯）\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙酉日 | 宜：祭祀、祈福、开光等 | 忌：开市、动
+ 土、掘井等
+UID:20330404@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330405
+DTEND;VALUE=DATE:20330406
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-05 星期二\n农历：二〇三三年三月
+ 初六\n干支：癸丑年 丙辰月 丙戌日\n宜：祭祀、沐浴、
+ 破屋、坏垣、求医、治病、解除、馀事勿取\n忌：嫁娶、
+ 开市、交易、入宅、安葬\n冲煞：冲龙(庚辰) 煞北\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙戌日 | 宜：祭祀、沐浴、破屋等 | 忌：嫁娶、开
+ 市、交易等
+UID:20330405@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330406
+DTEND;VALUE=DATE:20330407
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-06 星期三\n农历：二〇三三年三月
+ 初七\n干支：癸丑年 丙辰月 丁亥日\n宜：诸事不宜\n忌：
+ 无\n冲煞：冲蛇(辛巳) 煞西\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:丁亥日 | 宜：诸事不宜 | 忌：无
+UID:20330406@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330407
+DTEND;VALUE=DATE:20330408
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-07 星期四\n农历：二〇三三年三月
+ 初八\n干支：癸丑年 丙辰月 戊子日\n宜：祭祀、塑绘、
+ 开光、订盟、纳采、冠笄、裁衣、安机械、拆卸、修造
+ 、动土、安床、经络、开市\n忌：出火、入宅、安葬、伐
+ 木\n冲煞：冲马(壬午) 煞南\n个人提示：年柱天克地冲（
+ 戊克壬、子冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊子日 | 宜：祭祀、塑绘、开光等 | 忌：出火、入
+ 宅、安葬等
+UID:20330407@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330408
+DTEND;VALUE=DATE:20330409
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-08 星期五\n农历：二〇三三年三月
+ 初九\n干支：癸丑年 丙辰月 己丑日\n宜：祭祀、馀事勿
+ 取\n忌：造庙、嫁娶、安床\n冲煞：冲羊(癸未) 煞东\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己丑日 | 宜：祭祀、馀事勿取 | 忌：造庙、嫁娶、
+ 安床
+UID:20330408@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330409
+DTEND;VALUE=DATE:20330410
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-09 星期六\n农历：二〇三三年三月
+ 初十\n干支：癸丑年 丙辰月 庚寅日\n宜：订盟、纳采、
+ 嫁娶、进人口、会亲友、交易、立券、动土、除服、谢
+ 土、移柩、破土、启钻、赴任、出行、开市、纳财、栽
+ 种\n忌：入殓、安葬、入宅、安床\n冲煞：冲猴(甲申) 煞
+ 北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚寅日 | 宜：订盟、纳采、嫁娶等 | 忌：入殓、安
+ 葬、入宅等
+UID:20330409@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330410
+DTEND;VALUE=DATE:20330411
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-10 星期日\n农历：二〇三三年三月
+ 十一\n干支：癸丑年 丙辰月 辛卯日\n宜：祭祀、祈福、
+ 裁衣、合帐、安床、入殓、除服、成服、移柩、破土、
+ 启钻、安葬、谢土、立碑、造畜稠\n忌：掘井、安门、嫁
+ 娶、纳采\n冲煞：冲鸡(乙酉) 煞西\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:辛卯日 | 宜：祭祀、祈福、裁衣等 | 忌：掘井、安
+ 门、嫁娶等
+UID:20330410@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330411
+DTEND;VALUE=DATE:20330412
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-11 星期一\n农历：二〇三三年三月
+ 十二\n干支：癸丑年 丙辰月 壬辰日\n宜：祭祀、进人口
+ 、嫁娶、安床、解除、冠笄、出行、裁衣、扫舍\n忌：掘
+ 井、动土、破土、安葬、开光\n冲煞：冲狗(丙戌) 煞南\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬辰日 | 宜：祭祀、进人口、嫁娶等 | 忌：掘井、
+ 动土、破土等
+UID:20330411@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330412
+DTEND;VALUE=DATE:20330413
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-12 星期二\n农历：二〇三三年三月
+ 十三\n干支：癸丑年 丙辰月 癸巳日\n宜：纳采、开光、
+ 求医、治病、动土、上梁、移徙、入宅\n忌：嫁娶、开市
+ 、安葬\n冲煞：冲猪(丁亥) 煞东\n个人提示：与月柱相冲
+ （巳冲亥）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸巳日 | 宜：纳采、开光、求医等 | 忌：嫁娶、开
+ 市、安葬
+UID:20330412@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330413
+DTEND;VALUE=DATE:20330414
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-13 星期三\n农历：二〇三三年三月
+ 十四\n干支：癸丑年 丙辰月 甲午日\n宜：祭祀、会亲友
+ 、开市、安床、启钻、安葬\n忌：嫁娶、动土、破土\n冲
+ 煞：冲鼠(戊子) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲午日 | 宜：祭祀、会亲友、开市等 | 忌：嫁娶、
+ 动土、破土
+UID:20330413@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330414
+DTEND;VALUE=DATE:20330415
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-14 星期四\n农历：二〇三三年三月
+ 十五\n干支：癸丑年 丙辰月 乙未日\n宜：祭祀、作灶、
+ 掘井、平治道涂\n忌：嫁娶、安葬\n冲煞：冲牛(己丑) 煞
+ 西\n个人提示：日柱天克地冲（乙克己、未冲丑）\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙未日 | 宜：祭祀、作灶、掘井等 | 忌：嫁娶、安
+ 葬
+UID:20330414@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330415
+DTEND;VALUE=DATE:20330416
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-15 星期五\n农历：二〇三三年三月
+ 十六\n干支：癸丑年 丙辰月 丙申日\n宜：祭祀、斋醮、
+ 开市、动土、入殓、破土、安葬\n忌：嫁娶、移徙、入宅
+ \n冲煞：冲虎(庚寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:丙申日 | 宜：祭祀、斋醮、开市等 | 忌：嫁娶、移
+ 徙、入宅
+UID:20330415@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330416
+DTEND;VALUE=DATE:20330417
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-16 星期六\n农历：二〇三三年三月
+ 十七\n干支：癸丑年 丙辰月 丁酉日\n宜：嫁娶、纳采、
+ 祭祀、祈福、出行、移徙、求医\n忌：开市、动土、破土
+ \n冲煞：冲兔(辛卯) 煞东\n个人提示：与时柱相冲（酉冲
+ 卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁酉日 | 宜：嫁娶、纳采、祭祀等 | 忌：开市、动
+ 土、破土
+UID:20330416@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330417
+DTEND;VALUE=DATE:20330418
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-17 星期日\n农历：二〇三三年三月
+ 十八\n干支：癸丑年 丙辰月 戊戌日\n宜：祭祀、求医、
+ 治病、解除、馀事勿取\n忌：诸事不宜\n冲煞：冲龙(壬辰
+ ) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊戌日 | 宜：祭祀、求医、治病等 | 忌：诸事不宜
+UID:20330417@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330418
+DTEND;VALUE=DATE:20330419
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-18 星期一\n农历：二〇三三年三月
+ 十九\n干支：癸丑年 丙辰月 己亥日\n宜：沐浴、结网、
+ 取渔\n忌：嫁娶、入宅、安葬\n冲煞：冲蛇(癸巳) 煞西\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己亥日 | 宜：沐浴、结网、取渔 | 忌：嫁娶、入宅
+ 、安葬
+UID:20330418@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330419
+DTEND;VALUE=DATE:20330420
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-19 星期二\n农历：二〇三三年三月
+ 二十\n干支：癸丑年 丙辰月 庚子日\n宜：无\n忌：诸事不
+ 宜\n冲煞：冲马(甲午) 煞南\n个人提示：与年柱相冲（子
+ 冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚子日 | 宜：无 | 忌：诸事不宜
+UID:20330419@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330420
+DTEND;VALUE=DATE:20330421
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-20 星期三\n农历：二〇三三年三月
+ 廿一\n干支：癸丑年 丙辰月 辛丑日\n宜：解除、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲羊(乙未) 煞东\n节气
+ ：谷雨\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛丑日 | 宜：解除、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330420@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330421
+DTEND;VALUE=DATE:20330422
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-21 星期四\n农历：二〇三三年三月
+ 廿二\n干支：癸丑年 丙辰月 壬寅日\n宜：嫁娶、开光、
+ 出行、出火、拆卸、进人口、开市、立券、交易、挂匾
+ 、入宅、移徙、安床、栽种\n忌：祈福、入殓、祭祀、作
+ 灶、安葬、探病\n冲煞：冲猴(丙申) 煞北\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:壬寅日 | 宜：嫁娶、开光、出行等 | 忌：祈福、入
+ 殓、祭祀等
+UID:20330421@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330422
+DTEND;VALUE=DATE:20330423
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-22 星期五\n农历：二〇三三年三月
+ 廿三\n干支：癸丑年 丙辰月 癸卯日\n宜：嫁娶、出行、
+ 合帐、冠笄、安床、除服、成服、作灶、交易、立券、
+ 入殓、移柩、破土、安葬\n忌：词讼、开光、开市\n冲煞
+ ：冲鸡(丁酉) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸卯日 | 宜：嫁娶、出行、合帐等 | 忌：词讼、开
+ 光、开市
+UID:20330422@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330423
+DTEND;VALUE=DATE:20330424
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-23 星期六\n农历：二〇三三年三月
+ 廿四\n干支：癸丑年 丙辰月 甲辰日\n宜：出行、修饰垣
+ 墙、造畜稠、教牛马、馀事勿取\n忌：诸事不宜\n冲煞：
+ 冲狗(戊戌) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲辰日 | 宜：出行、修饰垣墙、造畜稠等 | 忌：诸
+ 事不宜
+UID:20330423@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330424
+DTEND;VALUE=DATE:20330425
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-24 星期日\n农历：二〇三三年三月
+ 廿五\n干支：癸丑年 丙辰月 乙巳日\n宜：祭祀、祈福、
+ 开光、求嗣、解除、伐木、出火、入宅、移徙、安床、
+ 拆卸、修造、动土、造畜稠\n忌：嫁娶、纳财、安葬、出
+ 行、开市、立券、作灶、栽种\n冲煞：冲猪(己亥) 煞东\n
+ 个人提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:乙巳日 | 宜：祭祀、祈福、开光等 | 忌：嫁娶、纳
+ 财、安葬等
+UID:20330424@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330425
+DTEND;VALUE=DATE:20330426
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-25 星期一\n农历：二〇三三年三月
+ 廿六\n干支：癸丑年 丙辰月 丙午日\n宜：纳采、嫁娶、
+ 开光、出行、理发、会亲友、开市、安床、栽种、牧养
+ 、入殓、移柩、启钻\n忌：谢土、祈福、上梁、作灶、斋
+ 醮、修造、入宅、安门\n冲煞：冲鼠(庚子) 煞北\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙午日 | 宜：纳采、嫁娶、开光等 | 忌：谢土、祈
+ 福、上梁等
+UID:20330425@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330426
+DTEND;VALUE=DATE:20330427
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-26 星期二\n农历：二〇三三年三月
+ 廿七\n干支：癸丑年 丙辰月 丁未日\n宜：祭祀、平治道
+ 涂、解除、修饰垣墙、馀事勿取\n忌：诸事不宜\n冲煞：
+ 冲牛(辛丑) 煞西\n个人提示：与日柱相冲（未冲丑）\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁未日 | 宜：祭祀、平治道涂、解除等 | 忌：诸事
+ 不宜
+UID:20330426@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330427
+DTEND;VALUE=DATE:20330428
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-27 星期三\n农历：二〇三三年三月
+ 廿八\n干支：癸丑年 丙辰月 戊申日\n宜：祭祀、祈福、
+ 开光、解除、动土、纳财、交易、纳畜、扫舍\n忌：进人
+ 口、出行、嫁娶、置产、安床、赴任、安葬、作灶\n冲煞
+ ：冲虎(壬寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊申日 | 宜：祭祀、祈福、开光等 | 忌：进人口、
+ 出行、嫁娶等
+UID:20330427@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330428
+DTEND;VALUE=DATE:20330429
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-28 星期四\n农历：二〇三三年三月
+ 廿九\n干支：癸丑年 丙辰月 己酉日\n宜：祭祀、祈福、
+ 求嗣、开光、解除、出火、拆卸、入宅、安床、修造、
+ 安门、纳畜、启钻、安葬\n忌：动土、破土、纳财、掘井
+ 、挂匾、开市、伐木、交易\n冲煞：冲兔(癸卯) 煞东\n个
+ 人提示：与时柱相冲（酉冲卯）\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:己酉日 | 宜：祭祀、祈福、求嗣等 | 忌：动土、破
+ 土、纳财等
+UID:20330428@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330429
+DTEND;VALUE=DATE:20330430
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-29 星期五\n农历：二〇三三年四月
+ 初一\n干支：癸丑年 丙辰月 庚戌日\n宜：祭祀、解除、
+ 破屋、坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲龙(甲辰
+ ) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚戌日 | 宜：祭祀、解除、破屋等 | 忌：诸事不宜
+UID:20330429@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330430
+DTEND;VALUE=DATE:20330501
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-04-30 星期六\n农历：二〇三三年四月
+ 初二\n干支：癸丑年 丙辰月 辛亥日\n宜：塞穴、扫舍、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲蛇(乙巳) 煞西\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛亥日 | 宜：塞穴、扫舍、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330430@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330501
+DTEND;VALUE=DATE:20330502
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-01 星期日\n农历：二〇三三年四月
+ 初三\n干支：癸丑年 丙辰月 壬子日\n宜：祭祀、祈福、
+ 求嗣、开光、解除、纳采、冠笄、出火、拆卸、进人口
+ 、安床、动土、上梁、造庙、掘井、开池、入殓、移柩
+ 、安葬、破土\n忌：无\n冲煞：冲马(丙午) 煞南\n个人提
+ 示：与年柱相冲（子冲午）\n命主：男 · 壬午 辛亥 己丑
+  丁卯
+SUMMARY:壬子日 | 宜：祭祀、祈福、求嗣等 | 忌：无
+UID:20330501@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330502
+DTEND;VALUE=DATE:20330503
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-02 星期一\n农历：二〇三三年四月
+ 初四\n干支：癸丑年 丙辰月 癸丑日\n宜：解除、破屋、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲羊(丁未) 煞东\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸丑日 | 宜：解除、破屋、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330502@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330503
+DTEND;VALUE=DATE:20330504
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-03 星期二\n农历：二〇三三年四月
+ 初五\n干支：癸丑年 丙辰月 甲寅日\n宜：嫁娶、祈福、
+ 求嗣、开光、出行、解除、拆卸、出火、开市、立券、
+ 交易、入宅、移徙、安床、动土、破土、谢土\n忌：祭祀
+ 、入殓、安葬、探病\n冲煞：冲猴(戊申) 煞北\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲寅日 | 宜：嫁娶、祈福、求嗣等 | 忌：祭祀、入
+ 殓、安葬等
+UID:20330503@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330504
+DTEND;VALUE=DATE:20330505
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-04 星期三\n农历：二〇三三年四月
+ 初六\n干支：癸丑年 丙辰月 乙卯日\n宜：祭祀、裁衣、
+ 冠笄、安床、交易、立券、开池、补垣、塞穴、入殓、
+ 破土、启钻、安葬、谢土、除服、成服\n忌：嫁娶、掘井
+ 、探病、开市、开光、栽种\n冲煞：冲鸡(己酉) 煞西\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙卯日 | 宜：祭祀、裁衣、冠笄等 | 忌：嫁娶、掘
+ 井、探病等
+UID:20330504@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330505
+DTEND;VALUE=DATE:20330506
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-05 星期四\n农历：二〇三三年四月
+ 初七\n干支：癸丑年 丁巳月 丙辰日\n宜：馀事勿取\n忌：
+ 无\n冲煞：冲狗(庚戌) 煞南\n节气：立夏\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:丙辰日 | 宜：馀事勿取 | 忌：无
+UID:20330505@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330506
+DTEND;VALUE=DATE:20330507
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-06 星期五\n农历：二〇三三年四月
+ 初八\n干支：癸丑年 丁巳月 丁巳日\n宜：塞穴、断蚁、
+ 结网、馀事勿取\n忌：破土、安葬\n冲煞：冲猪(辛亥) 煞
+ 东\n个人提示：月柱天克地冲（丁克辛、巳冲亥）\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁巳日 | 宜：塞穴、断蚁、结网等 | 忌：破土、安
+ 葬
+UID:20330506@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330507
+DTEND;VALUE=DATE:20330508
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-07 星期六\n农历：二〇三三年四月
+ 初九\n干支：癸丑年 丁巳月 戊午日\n宜：开光、出行、
+ 纳采、嫁娶、伐木、架马、出火、拆卸、移徙、入宅、
+ 造庙、造桥、造船、造畜稠、开市、入殓、除服、成服
+ 、移柩、安葬\n忌：无\n冲煞：冲鼠(壬子) 煞北\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊午日 | 宜：开光、出行、纳采等 | 忌：无
+UID:20330507@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330508
+DTEND;VALUE=DATE:20330509
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-08 星期日\n农历：二〇三三年四月
+ 初十\n干支：癸丑年 丁巳月 己未日\n宜：进人口、牧养
+ 、置产、塞穴、结网、馀事勿取\n忌：诸事不宜\n冲煞：
+ 冲牛(癸丑) 煞西\n个人提示：与日柱相冲（未冲丑）\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己未日 | 宜：进人口、牧养、置产等 | 忌：诸事不
+ 宜
+UID:20330508@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330509
+DTEND;VALUE=DATE:20330510
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-09 星期一\n农历：二〇三三年四月
+ 十一\n干支：癸丑年 丁巳月 庚申日\n宜：开光、出行、
+ 嫁娶\n忌：会亲友、进人口、修造、动土、起基、移徙、
+ 开市、纳畜、入殓、除服、成服、移柩、破土、安葬、
+ 修坟、立碑\n冲煞：冲虎(甲寅) 煞南\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:庚申日 | 宜：开光、出行、嫁娶 | 忌：会亲友、进
+ 人口、修造等
+UID:20330509@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330510
+DTEND;VALUE=DATE:20330511
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-10 星期二\n农历：二〇三三年四月
+ 十二\n干支：癸丑年 丁巳月 辛酉日\n宜：嫁娶、纳采、
+ 出行、祭祀、祈福、开市、动土、移徙、入宅、破土、
+ 安葬\n忌：安门\n冲煞：冲兔(乙卯) 煞东\n个人提示：与
+ 时柱相冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛酉日 | 宜：嫁娶、纳采、出行等 | 忌：安门
+UID:20330510@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330511
+DTEND;VALUE=DATE:20330512
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-11 星期三\n农历：二〇三三年四月
+ 十三\n干支：癸丑年 丁巳月 壬戌日\n宜：嫁娶、纳采、
+ 求医、治病、修造、动土、移徙、入宅、破土、安葬\n忌
+ ：开市、开光\n冲煞：冲龙(丙辰) 煞北\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:壬戌日 | 宜：嫁娶、纳采、求医等 | 忌：开市、开
+ 光
+UID:20330511@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330512
+DTEND;VALUE=DATE:20330513
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-12 星期四\n农历：二〇三三年四月
+ 十四\n干支：癸丑年 丁巳月 癸亥日\n宜：祭祀、破屋、
+ 坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲蛇(丁巳) 煞西
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸亥日 | 宜：祭祀、破屋、坏垣等 | 忌：诸事不宜
+UID:20330512@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330513
+DTEND;VALUE=DATE:20330514
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-13 星期五\n农历：二〇三三年四月
+ 十五\n干支：癸丑年 丁巳月 甲子日\n宜：嫁娶、纳采、
+ 祭祀、祈福、出行、动土、上梁、移徙、入宅、破土、
+ 安葬\n忌：斋醮\n冲煞：冲马(戊午) 煞南\n个人提示：与
+ 年柱相冲（子冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲子日 | 宜：嫁娶、纳采、祭祀等 | 忌：斋醮
+UID:20330513@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330514
+DTEND;VALUE=DATE:20330515
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-14 星期六\n农历：二〇三三年四月
+ 十六\n干支：癸丑年 丁巳月 乙丑日\n宜：纳采、祭祀、
+ 祈福、开市、求医、治病、动土、纳畜\n忌：嫁娶、安葬
+ \n冲煞：冲羊(己未) 煞东\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:乙丑日 | 宜：纳采、祭祀、祈福等 | 忌：嫁娶、安
+ 葬
+UID:20330514@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330515
+DTEND;VALUE=DATE:20330516
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-15 星期日\n农历：二〇三三年四月
+ 十七\n干支：癸丑年 丁巳月 丙寅日\n宜：嫁娶、纳采、
+ 出行、移徙、入宅\n忌：动土、破土、安葬\n冲煞：冲猴(
+ 庚申) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙寅日 | 宜：嫁娶、纳采、出行等 | 忌：动土、破
+ 土、安葬
+UID:20330515@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330516
+DTEND;VALUE=DATE:20330517
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-16 星期一\n农历：二〇三三年四月
+ 十八\n干支：癸丑年 丁巳月 丁卯日\n宜：订盟、纳采、
+ 祭祀、动土、破土、交易、立券\n忌：嫁娶、安葬\n冲煞
+ ：冲鸡(辛酉) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁卯日 | 宜：订盟、纳采、祭祀等 | 忌：嫁娶、安
+ 葬
+UID:20330516@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330517
+DTEND;VALUE=DATE:20330518
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-17 星期二\n农历：二〇三三年四月
+ 十九\n干支：癸丑年 丁巳月 戊辰日\n宜：嫁娶、裁衣、
+ 祭祀、出行、安床、作灶、移徙、入宅、破土、安葬\n忌
+ ：赴任、捕捉\n冲煞：冲狗(壬戌) 煞南\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:戊辰日 | 宜：嫁娶、裁衣、祭祀等 | 忌：赴任、捕
+ 捉
+UID:20330517@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330518
+DTEND;VALUE=DATE:20330519
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-18 星期三\n农历：二〇三三年四月
+ 二十\n干支：癸丑年 丁巳月 己巳日\n宜：塞穴、结网、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲猪(癸亥) 煞东\n个人
+ 提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛亥 己
+ 丑 丁卯
+SUMMARY:己巳日 | 宜：塞穴、结网、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330518@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330519
+DTEND;VALUE=DATE:20330520
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-19 星期四\n农历：二〇三三年四月
+ 廿一\n干支：癸丑年 丁巳月 庚午日\n宜：嫁娶、订盟、
+ 纳采、出行、祭祀、祈福、斋醮、动土、上梁、破土、
+ 安葬\n忌：移徙、入宅\n冲煞：冲鼠(甲子) 煞北\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚午日 | 宜：嫁娶、订盟、纳采等 | 忌：移徙、入
+ 宅
+UID:20330519@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330520
+DTEND;VALUE=DATE:20330521
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-20 星期五\n农历：二〇三三年四月
+ 廿二\n干支：癸丑年 丁巳月 辛未日\n宜：订盟、纳采、
+ 会亲友、安床、作灶、造畜稠\n忌：开市、安葬\n冲煞：
+ 冲牛(乙丑) 煞西\n个人提示：与日柱相冲（未冲丑）\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛未日 | 宜：订盟、纳采、会亲友等 | 忌：开市、
+ 安葬
+UID:20330520@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330521
+DTEND;VALUE=DATE:20330522
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-21 星期六\n农历：二〇三三年四月
+ 廿三\n干支：癸丑年 丁巳月 壬申日\n宜：沐浴、平治道
+ 涂、扫舍、入殓、移柩、破土、启钻、安葬、馀事勿取\n
+ 忌：诸事不宜\n冲煞：冲虎(丙寅) 煞南\n节气：小满\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬申日 | 宜：沐浴、平治道涂、扫舍等 | 忌：诸事
+ 不宜
+UID:20330521@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330522
+DTEND;VALUE=DATE:20330523
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-22 星期日\n农历：二〇三三年四月
+ 廿四\n干支：癸丑年 丁巳月 癸酉日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、出行、出火、拆卸、动土、上梁、
+ 进人口、入宅、移徙、安床、安门、开市、交易、立券
+ 、挂匾、栽种、破土、安葬\n忌：无\n冲煞：冲兔(丁卯) 
+ 煞东\n个人提示：时柱天克地冲（癸克丁、酉冲卯）\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸酉日 | 宜：嫁娶、祭祀、祈福等 | 忌：无
+UID:20330522@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330523
+DTEND;VALUE=DATE:20330524
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-23 星期一\n农历：二〇三三年四月
+ 廿五\n干支：癸丑年 丁巳月 甲戌日\n宜：祭祀、开光、
+ 出行、解除、塑绘、裁衣、入殓、移柩、破土、启钻、
+ 安葬、除服、成服\n忌：嫁娶、上梁、修造、拆卸、架马
+ 、入宅、伐木、动土、出火、开柱眼\n冲煞：冲龙(戊辰) 
+ 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲戌日 | 宜：祭祀、开光、出行等 | 忌：嫁娶、上
+ 梁、修造等
+UID:20330523@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330524
+DTEND;VALUE=DATE:20330525
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-24 星期二\n农历：二〇三三年四月
+ 廿六\n干支：癸丑年 丁巳月 乙亥日\n宜：祭祀、解除、
+ 破屋、坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲蛇(己巳
+ ) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙亥日 | 宜：祭祀、解除、破屋等 | 忌：诸事不宜
+UID:20330524@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330525
+DTEND;VALUE=DATE:20330526
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-25 星期三\n农历：二〇三三年四月
+ 廿七\n干支：癸丑年 丁巳月 丙子日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、出行、拆卸、动土、上梁、出火、
+ 进人口、入宅、移徙、安床、栽种、纳畜、牧养、竖柱
+ 、安门、修造、解除、会亲友\n忌：无\n冲煞：冲马(庚午
+ ) 煞南\n个人提示：与年柱相冲（子冲午）\n命主：男 · 
+ 壬午 辛亥 己丑 丁卯
+SUMMARY:丙子日 | 宜：嫁娶、祭祀、祈福等 | 忌：无
+UID:20330525@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330526
+DTEND;VALUE=DATE:20330527
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-26 星期四\n农历：二〇三三年四月
+ 廿八\n干支：癸丑年 丁巳月 丁丑日\n宜：开市、交易、
+ 立券、祭祀、祈福、开光、伐木、进人口、安床、拆卸
+ 、修造、动土、栽种、破土、移柩、安葬\n忌：入宅、移
+ 徙、理发、出火、嫁娶、出行\n冲煞：冲羊(辛未) 煞东\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁丑日 | 宜：开市、交易、立券等 | 忌：入宅、移
+ 徙、理发等
+UID:20330526@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330527
+DTEND;VALUE=DATE:20330528
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-27 星期五\n农历：二〇三三年四月
+ 廿九\n干支：癸丑年 丁巳月 戊寅日\n宜：结网、解除、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲猴(壬申) 煞北\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊寅日 | 宜：结网、解除、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330527@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330528
+DTEND;VALUE=DATE:20330529
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-28 星期六\n农历：二〇三三年五月
+ 初一\n干支：癸丑年 丁巳月 己卯日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、开市、交易、立券、安床、出行、
+ 拆卸\n忌：纳畜、入宅、移徙、安葬、探病、伐木、上梁
+ 、安门、入殓、动土\n冲煞：冲鸡(癸酉) 煞西\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:己卯日 | 宜：嫁娶、祭祀、祈福等 | 忌：纳畜、入
+ 宅、移徙等
+UID:20330528@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330529
+DTEND;VALUE=DATE:20330530
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-29 星期日\n农历：二〇三三年五月
+ 初二\n干支：癸丑年 丁巳月 庚辰日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、出行、出火、拆卸、修造、动土、入宅、
+ 移徙、安床、作灶、塞穴、栽种、破土、安葬\n忌：开光
+ 、掘井、开仓\n冲煞：冲狗(甲戌) 煞南\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:庚辰日 | 宜：嫁娶、祭祀、祈福等 | 忌：开光、掘
+ 井、开仓
+UID:20330529@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330530
+DTEND;VALUE=DATE:20330531
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-30 星期一\n农历：二〇三三年五月
+ 初三\n干支：癸丑年 丁巳月 辛巳日\n宜：解除、扫舍、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲猪(乙亥) 煞东\n个人
+ 提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛亥 己
+ 丑 丁卯
+SUMMARY:辛巳日 | 宜：解除、扫舍、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330530@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330531
+DTEND;VALUE=DATE:20330601
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-05-31 星期二\n农历：二〇三三年五月
+ 初四\n干支：癸丑年 丁巳月 壬午日\n宜：开市、交易、
+ 立券、挂匾、开光、出行、拆卸、进人口、入宅、移柩
+ 、动土、安门、上梁、栽种、破土、修坟、安葬\n忌：嫁
+ 娶、安床、探病、作灶\n冲煞：冲鼠(丙子) 煞北\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬午日 | 宜：开市、交易、立券等 | 忌：嫁娶、安
+ 床、探病等
+UID:20330531@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330601
+DTEND;VALUE=DATE:20330602
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-01 星期三\n农历：二〇三三年五月
+ 初五\n干支：癸丑年 丁巳月 癸未日\n宜：进人口、会亲
+ 友\n忌：塞穴、上梁、动土、伐木、安葬、词讼\n冲煞：
+ 冲牛(丁丑) 煞西\n个人提示：与日柱相冲（未冲丑）\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸未日 | 宜：进人口、会亲友 | 忌：塞穴、上梁、
+ 动土等
+UID:20330601@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330602
+DTEND;VALUE=DATE:20330603
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-02 星期四\n农历：二〇三三年五月
+ 初六\n干支：癸丑年 丁巳月 甲申日\n宜：沐浴、平治道
+ 涂、扫舍、入殓、破土、安葬、除服、成服\n忌：嫁娶、
+ 移徙、伐木、作梁、安床、祭祀、祈福、盖屋\n冲煞：冲
+ 虎(戊寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲申日 | 宜：沐浴、平治道涂、扫舍等 | 忌：嫁娶
+ 、移徙、伐木等
+UID:20330602@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330603
+DTEND;VALUE=DATE:20330604
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-03 星期五\n农历：二〇三三年五月
+ 初七\n干支：癸丑年 丁巳月 乙酉日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、出火、出行、拆卸、动土、解除、
+ 进人口、开市、交易、立券、挂匾、入宅、移徙、安床
+ 、安门、上梁、安葬、破土、谢土\n忌：无\n冲煞：冲兔(
+ 己卯) 煞东\n个人提示：与时柱相冲（酉冲卯）\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙酉日 | 宜：嫁娶、祭祀、祈福等 | 忌：无
+UID:20330603@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330604
+DTEND;VALUE=DATE:20330605
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-04 星期六\n农历：二〇三三年五月
+ 初八\n干支：癸丑年 丁巳月 丙戌日\n宜：祭祀、祈福、
+ 求嗣、开光、解除、合帐、冠笄、伐木、架马、作梁、
+ 修造、进人口、嫁娶、裁衣、安床、动土、起基、上梁
+ 、竖柱、放水、会亲友\n忌：无\n冲煞：冲龙(庚辰) 煞北
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙戌日 | 宜：祭祀、祈福、求嗣等 | 忌：无
+UID:20330604@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330605
+DTEND;VALUE=DATE:20330606
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-05 星期日\n农历：二〇三三年五月
+ 初九\n干支：癸丑年 戊午月 丁亥日\n宜：祭祀、沐浴、
+ 捕捉、结网、畋猎、取渔、馀事勿取\n忌：开市、交易、
+ 嫁娶、安葬、行丧\n冲煞：冲蛇(辛巳) 煞西\n节气：芒种
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁亥日 | 宜：祭祀、沐浴、捕捉等 | 忌：开市、交
+ 易、嫁娶等
+UID:20330605@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330606
+DTEND;VALUE=DATE:20330607
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-06 星期一\n农历：二〇三三年五月
+ 初十\n干支：癸丑年 戊午月 戊子日\n宜：破屋、坏垣、
+ 求医、治病、畋猎、馀事勿取\n忌：嫁娶、入宅\n冲煞：
+ 冲马(壬午) 煞南\n个人提示：年柱天克地冲（戊克壬、子
+ 冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊子日 | 宜：破屋、坏垣、求医等 | 忌：嫁娶、入
+ 宅
+UID:20330606@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330607
+DTEND;VALUE=DATE:20330608
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-07 星期二\n农历：二〇三三年五月
+ 十一\n干支：癸丑年 戊午月 己丑日\n宜：嫁娶、出行、
+ 安机械、祭祀、塑绘、开光、治病、经络、安床、结网
+ 、塞穴、破土、入殓\n忌：开市、安门、掘井、作灶\n冲
+ 煞：冲羊(癸未) 煞东\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己丑日 | 宜：嫁娶、出行、安机械等 | 忌：开市、
+ 安门、掘井等
+UID:20330607@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330608
+DTEND;VALUE=DATE:20330609
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-08 星期三\n农历：二〇三三年五月
+ 十二\n干支：癸丑年 戊午月 庚寅日\n宜：订盟、纳采、
+ 会亲友、进人口、雕刻、拆卸、修造、动土、起基、开
+ 市、栽种、纳畜、牧养、入殓、除服、成服、移柩、破
+ 土、安葬\n忌：无\n冲煞：冲猴(甲申) 煞北\n命主：男 · 
+ 壬午 辛亥 己丑 丁卯
+SUMMARY:庚寅日 | 宜：订盟、纳采、会亲友等 | 忌：无
+UID:20330608@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330609
+DTEND;VALUE=DATE:20330610
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-09 星期四\n农历：二〇三三年五月
+ 十三\n干支：癸丑年 戊午月 辛卯日\n宜：祭祀、捕捉、
+ 取渔、修饰垣墙、馀事勿取\n忌：诸事不宜\n冲煞：冲鸡(
+ 乙酉) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛卯日 | 宜：祭祀、捕捉、取渔等 | 忌：诸事不宜
+UID:20330609@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330610
+DTEND;VALUE=DATE:20330611
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-10 星期五\n农历：二〇三三年五月
+ 十四\n干支：癸丑年 戊午月 壬辰日\n宜：嫁娶、纳采、
+ 祭祀、祈福、求医、治病、出行、动土、移徙、入宅\n忌
+ ：开市、安门\n冲煞：冲狗(丙戌) 煞南\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:壬辰日 | 宜：嫁娶、纳采、祭祀等 | 忌：开市、安
+ 门
+UID:20330610@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330611
+DTEND;VALUE=DATE:20330612
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-11 星期六\n农历：二〇三三年五月
+ 十五\n干支：癸丑年 戊午月 癸巳日\n宜：裁衣、作灶、
+ 移徙、入宅、纳畜\n忌：嫁娶、安葬\n冲煞：冲猪(丁亥) 
+ 煞东\n个人提示：与月柱相冲（巳冲亥）\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:癸巳日 | 宜：裁衣、作灶、移徙等 | 忌：嫁娶、安
+ 葬
+UID:20330611@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330612
+DTEND;VALUE=DATE:20330613
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-12 星期日\n农历：二〇三三年五月
+ 十六\n干支：癸丑年 戊午月 甲午日\n宜：祭祀、入殓、
+ 移柩、启钻、安葬\n忌：上梁、动土、破土\n冲煞：冲鼠(
+ 戊子) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲午日 | 宜：祭祀、入殓、移柩等 | 忌：上梁、动
+ 土、破土
+UID:20330612@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330613
+DTEND;VALUE=DATE:20330614
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-13 星期一\n农历：二〇三三年五月
+ 十七\n干支：癸丑年 戊午月 乙未日\n宜：订盟、纳采、
+ 出行、祈福、斋醮、安床、会亲友\n忌：移徙、入宅、安
+ 葬\n冲煞：冲牛(己丑) 煞西\n个人提示：日柱天克地冲（
+ 乙克己、未冲丑）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙未日 | 宜：订盟、纳采、出行等 | 忌：移徙、入
+ 宅、安葬
+UID:20330613@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330614
+DTEND;VALUE=DATE:20330615
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-14 星期二\n农历：二〇三三年五月
+ 十八\n干支：癸丑年 戊午月 丙申日\n宜：嫁娶、纳采、
+ 出行、求医、治病、开市、移徙、入宅、启钻、安葬\n忌
+ ：动土、破土\n冲煞：冲虎(庚寅) 煞南\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:丙申日 | 宜：嫁娶、纳采、出行等 | 忌：动土、破
+ 土
+UID:20330614@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330615
+DTEND;VALUE=DATE:20330616
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-15 星期三\n农历：二〇三三年五月
+ 十九\n干支：癸丑年 戊午月 丁酉日\n宜：嫁娶、祭祀、
+ 沐浴、扫舍、修饰垣墙\n忌：行丧、安葬\n冲煞：冲兔(辛
+ 卯) 煞东\n个人提示：与时柱相冲（酉冲卯）\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁酉日 | 宜：嫁娶、祭祀、沐浴等 | 忌：行丧、安
+ 葬
+UID:20330615@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330616
+DTEND;VALUE=DATE:20330617
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-16 星期四\n农历：二〇三三年五月
+ 二十\n干支：癸丑年 戊午月 戊戌日\n宜：嫁娶、订盟、
+ 纳采、出行、开市、祭祀、祈福、动土、移徙、入宅、
+ 破土、安葬\n忌：作灶\n冲煞：冲龙(壬辰) 煞北\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊戌日 | 宜：嫁娶、订盟、纳采等 | 忌：作灶
+UID:20330616@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330617
+DTEND;VALUE=DATE:20330618
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-17 星期五\n农历：二〇三三年五月
+ 廿一\n干支：癸丑年 戊午月 己亥日\n宜：订盟、纳采、
+ 出行、祭祀、祈福、修造、动土、移徙、入宅\n忌：开市
+ 、安葬\n冲煞：冲蛇(癸巳) 煞西\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:己亥日 | 宜：订盟、纳采、出行等 | 忌：开市、安
+ 葬
+UID:20330617@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330618
+DTEND;VALUE=DATE:20330619
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-18 星期六\n农历：二〇三三年五月
+ 廿二\n干支：癸丑年 戊午月 庚子日\n宜：诸事不宜\n忌：
+ 无\n冲煞：冲马(甲午) 煞南\n个人提示：与年柱相冲（子
+ 冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚子日 | 宜：诸事不宜 | 忌：无
+UID:20330618@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330619
+DTEND;VALUE=DATE:20330620
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-19 星期日\n农历：二〇三三年五月
+ 廿三\n干支：癸丑年 戊午月 辛丑日\n宜：嫁娶、订盟、
+ 纳采、祭祀、祈福、入殓、破土、安葬\n忌：开光、开市
+ \n冲煞：冲羊(乙未) 煞东\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:辛丑日 | 宜：嫁娶、订盟、纳采等 | 忌：开光、开
+ 市
+UID:20330619@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330620
+DTEND;VALUE=DATE:20330621
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-20 星期一\n农历：二〇三三年五月
+ 廿四\n干支：癸丑年 戊午月 壬寅日\n宜：开光、求医、
+ 治病、动土、上梁、入殓、破土、安葬\n忌：嫁娶\n冲煞
+ ：冲猴(丙申) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬寅日 | 宜：开光、求医、治病等 | 忌：嫁娶
+UID:20330620@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330621
+DTEND;VALUE=DATE:20330622
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-21 星期二\n农历：二〇三三年五月
+ 廿五\n干支：癸丑年 戊午月 癸卯日\n宜：祭祀、栽种、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲鸡(丁酉) 煞西\n节气
+ ：夏至\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸卯日 | 宜：祭祀、栽种、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330621@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330622
+DTEND;VALUE=DATE:20330623
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-22 星期三\n农历：二〇三三年五月
+ 廿六\n干支：癸丑年 戊午月 甲辰日\n宜：嫁娶、开光、
+ 祭祀、祈福、求嗣、出行、解除、伐木、入宅、移徙、
+ 安床、出火、拆卸、修造、上梁、栽种、移柩\n忌：安葬
+ 、开市、交易、立券\n冲煞：冲狗(戊戌) 煞南\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲辰日 | 宜：嫁娶、开光、祭祀等 | 忌：安葬、开
+ 市、交易等
+UID:20330622@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330623
+DTEND;VALUE=DATE:20330624
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-23 星期四\n农历：二〇三三年五月
+ 廿七\n干支：癸丑年 戊午月 乙巳日\n宜：求嗣、嫁娶、
+ 纳采、合帐、裁衣、冠笄、伐木、作梁、修造、动土、
+ 起基、竖柱、上梁、安门、作灶、筑堤、造畜稠\n忌：安
+ 葬、出行、祈福、栽种\n冲煞：冲猪(己亥) 煞东\n个人提
+ 示：与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛亥 己丑
+  丁卯
+SUMMARY:乙巳日 | 宜：求嗣、嫁娶、纳采等 | 忌：安葬、出
+ 行、祈福等
+UID:20330623@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330624
+DTEND;VALUE=DATE:20330625
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-24 星期五\n农历：二〇三三年五月
+ 廿八\n干支：癸丑年 戊午月 丙午日\n宜：祭祀、解除、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲鼠(庚子) 煞北\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙午日 | 宜：祭祀、解除、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330624@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330625
+DTEND;VALUE=DATE:20330626
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-25 星期六\n农历：二〇三三年五月
+ 廿九\n干支：癸丑年 戊午月 丁未日\n宜：嫁娶、祭祀、
+ 祈福、出火、开光、求嗣、出行、拆卸、开市、交易、
+ 立券、挂匾、入宅、移徙、安床、栽种、动土\n忌：安葬
+ 、行丧、伐木、作梁\n冲煞：冲牛(辛丑) 煞西\n个人提示
+ ：与日柱相冲（未冲丑）\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:丁未日 | 宜：嫁娶、祭祀、祈福等 | 忌：安葬、行
+ 丧、伐木等
+UID:20330625@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330626
+DTEND;VALUE=DATE:20330627
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-26 星期日\n农历：二〇三三年五月
+ 三十\n干支：癸丑年 戊午月 戊申日\n宜：开光、求嗣、
+ 出行、解除、伐木、出火、拆卸、修造、上梁、起基、
+ 入宅、移徙、开市、交易、立券、栽种、牧养、入殓、
+ 安葬、除服、成服\n忌：置产、安床\n冲煞：冲虎(壬寅) 
+ 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊申日 | 宜：开光、求嗣、出行等 | 忌：置产、安
+ 床
+UID:20330626@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330627
+DTEND;VALUE=DATE:20330628
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-27 星期一\n农历：二〇三三年六月
+ 初一\n干支：癸丑年 戊午月 己酉日\n宜：祭祀、理发、
+ 修饰垣墙、平治道涂、沐浴、整手足甲、扫舍\n忌：出行
+ 、安门、修造、嫁娶、上梁、入宅\n冲煞：冲兔(癸卯) 煞
+ 东\n个人提示：与时柱相冲（酉冲卯）\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:己酉日 | 宜：祭祀、理发、修饰垣墙等 | 忌：出行
+ 、安门、修造等
+UID:20330627@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330628
+DTEND;VALUE=DATE:20330629
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-28 星期二\n农历：二〇三三年六月
+ 初二\n干支：癸丑年 戊午月 庚戌日\n宜：嫁娶、祭祀、
+ 开光、祈福、求嗣、出行、出火、拆卸、动土、修造、
+ 进人口、入宅、移徙、安床、挂匾、交易、立券、栽种
+ 、纳畜、入殓、破土、启钻、安葬\n忌：无\n冲煞：冲龙(
+ 甲辰) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚戌日 | 宜：嫁娶、祭祀、开光等 | 忌：无
+UID:20330628@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330629
+DTEND;VALUE=DATE:20330630
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-29 星期三\n农历：二〇三三年六月
+ 初三\n干支：癸丑年 戊午月 辛亥日\n宜：祭祀、祈福、
+ 求嗣、开光、出行、伐木、出火、拆卸、修造、动土、
+ 起基、安床、入宅、移徙\n忌：嫁娶、开市、交易、行丧
+ 、安葬、修坟\n冲煞：冲蛇(乙巳) 煞西\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:辛亥日 | 宜：祭祀、祈福、求嗣等 | 忌：嫁娶、开
+ 市、交易等
+UID:20330629@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330630
+DTEND;VALUE=DATE:20330701
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-06-30 星期四\n农历：二〇三三年六月
+ 初四\n干支：癸丑年 戊午月 壬子日\n宜：破屋、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲马(丙午) 煞南\n个人
+ 提示：与年柱相冲（子冲午）\n命主：男 · 壬午 辛亥 己
+ 丑 丁卯
+SUMMARY:壬子日 | 宜：破屋、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330630@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330701
+DTEND;VALUE=DATE:20330702
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-01 星期五\n农历：二〇三三年六月
+ 初五\n干支：癸丑年 戊午月 癸丑日\n宜：开市、交易、
+ 立券、纳财、开池、开厕、结网、祭祀、修造、动土、
+ 安床、放水、经络、破土\n忌：嫁娶、造桥、词讼、移徙
+ 、安门、作灶、栽种\n冲煞：冲羊(丁未) 煞东\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸丑日 | 宜：开市、交易、立券等 | 忌：嫁娶、造
+ 桥、词讼等
+UID:20330701@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330702
+DTEND;VALUE=DATE:20330703
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-02 星期六\n农历：二〇三三年六月
+ 初六\n干支：癸丑年 戊午月 甲寅日\n宜：开市、交易、
+ 立券、纳财、栽种、安床、拆卸、修造、动土、上梁、
+ 入殓、安葬、破土、除服、成服\n忌：嫁娶、出火、伐木
+ 、祭祀、入宅、移徙、纳畜、探病\n冲煞：冲猴(戊申) 煞
+ 北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲寅日 | 宜：开市、交易、立券等 | 忌：嫁娶、出
+ 火、伐木等
+UID:20330702@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330703
+DTEND;VALUE=DATE:20330704
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-03 星期日\n农历：二〇三三年六月
+ 初七\n干支：癸丑年 戊午月 乙卯日\n宜：祭祀、作灶、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲鸡(己酉) 煞西\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙卯日 | 宜：祭祀、作灶、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330703@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330704
+DTEND;VALUE=DATE:20330705
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-04 星期一\n农历：二〇三三年六月
+ 初八\n干支：癸丑年 戊午月 丙辰日\n宜：解除、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲狗(庚戌) 煞南\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙辰日 | 宜：解除、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330704@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330705
+DTEND;VALUE=DATE:20330706
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-05 星期二\n农历：二〇三三年六月
+ 初九\n干支：癸丑年 戊午月 丁巳日\n宜：修造、动土、
+ 起基、安门、安床、栽种、筑堤、补垣、造畜稠\n忌：嫁
+ 娶、掘井、入宅、移徙、出火、出行、行丧、安葬、开
+ 光、理发、进人口\n冲煞：冲猪(辛亥) 煞东\n个人提示：
+ 月柱天克地冲（丁克辛、巳冲亥）\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:丁巳日 | 宜：修造、动土、起基等 | 忌：嫁娶、掘
+ 井、入宅等
+UID:20330705@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330706
+DTEND;VALUE=DATE:20330707
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-06 星期三\n农历：二〇三三年六月
+ 初十\n干支：癸丑年 戊午月 戊午日\n宜：祭祀、教牛马
+ 、断蚁、馀事勿取\n忌：斋醮、移徙、入宅、动土\n冲煞
+ ：冲鼠(壬子) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊午日 | 宜：祭祀、教牛马、断蚁等 | 忌：斋醮、
+ 移徙、入宅等
+UID:20330706@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330707
+DTEND;VALUE=DATE:20330708
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-07 星期四\n农历：二〇三三年六月
+ 十一\n干支：癸丑年 己未月 己未日\n宜：开市、纳财、
+ 祭祀、塑绘、安机械、冠笄、会亲友、裁衣、开仓、经
+ 络、纳畜、造畜稠、教牛马、牧养\n忌：动土、破土、安
+ 葬、治病\n冲煞：冲牛(癸丑) 煞西\n节气：小暑\n个人提
+ 示：与日柱相冲（未冲丑）\n命主：男 · 壬午 辛亥 己丑
+  丁卯
+SUMMARY:己未日 | 宜：开市、纳财、祭祀等 | 忌：动土、破
+ 土、安葬等
+UID:20330707@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330708
+DTEND;VALUE=DATE:20330709
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-08 星期五\n农历：二〇三三年六月
+ 十二\n干支：癸丑年 己未月 庚申日\n宜：移徙、入宅、
+ 治病、会亲友、祭祀、祈福、斋醮、安香、嫁娶、盖屋
+ 、起基\n忌：开市、安床、出行、经络\n冲煞：冲虎(甲寅
+ ) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚申日 | 宜：移徙、入宅、治病等 | 忌：开市、安
+ 床、出行等
+UID:20330708@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330709
+DTEND;VALUE=DATE:20330710
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-09 星期六\n农历：二〇三三年六月
+ 十三\n干支：癸丑年 己未月 辛酉日\n宜：塑绘、出行、
+ 冠笄、嫁娶、进人口、裁衣、纳婿、造畜稠、交易、立
+ 券、牧养、开生坟、入殓、除服、成服、移柩、安葬、
+ 启钻\n忌：无\n冲煞：冲兔(乙卯) 煞东\n个人提示：与时
+ 柱相冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛酉日 | 宜：塑绘、出行、冠笄等 | 忌：无
+UID:20330709@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330710
+DTEND;VALUE=DATE:20330711
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-10 星期日\n农历：二〇三三年六月
+ 十四\n干支：癸丑年 己未月 壬戌日\n宜：祭祀、冠笄、
+ 嫁娶、捕捉、结网、畋猎、取渔、馀事勿取\n忌：无\n冲
+ 煞：冲龙(丙辰) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬戌日 | 宜：祭祀、冠笄、嫁娶等 | 忌：无
+UID:20330710@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330711
+DTEND;VALUE=DATE:20330712
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-11 星期一\n农历：二〇三三年六月
+ 十五\n干支：癸丑年 己未月 癸亥日\n宜：沐浴、扫舍、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲蛇(丁巳) 煞西\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸亥日 | 宜：沐浴、扫舍、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330711@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330712
+DTEND;VALUE=DATE:20330713
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-12 星期二\n农历：二〇三三年六月
+ 十六\n干支：癸丑年 己未月 甲子日\n宜：纳采、祭祀、
+ 祈福、解除、动土、破土、安葬\n忌：嫁娶、移徙、入宅
+ \n冲煞：冲马(戊午) 煞南\n个人提示：与年柱相冲（子冲
+ 午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲子日 | 宜：纳采、祭祀、祈福等 | 忌：嫁娶、移
+ 徙、入宅
+UID:20330712@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330713
+DTEND;VALUE=DATE:20330714
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-13 星期三\n农历：二〇三三年六月
+ 十七\n干支：癸丑年 己未月 乙丑日\n宜：祭祀、破屋、
+ 坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲羊(己未) 煞东
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙丑日 | 宜：祭祀、破屋、坏垣等 | 忌：诸事不宜
+UID:20330713@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330714
+DTEND;VALUE=DATE:20330715
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-14 星期四\n农历：二〇三三年六月
+ 十八\n干支：癸丑年 己未月 丙寅日\n宜：嫁娶、纳采、
+ 开市、出行、动土、上梁、移徙、入宅、破土、安葬\n忌
+ ：祭祀、祈福\n冲煞：冲猴(庚申) 煞北\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:丙寅日 | 宜：嫁娶、纳采、开市等 | 忌：祭祀、祈
+ 福
+UID:20330714@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330715
+DTEND;VALUE=DATE:20330716
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-15 星期五\n农历：二〇三三年六月
+ 十九\n干支：癸丑年 己未月 丁卯日\n宜：嫁娶、纳采、
+ 开市、出行、动土、上梁、移徙、入宅、破土、安葬\n忌
+ ：赴任\n冲煞：冲鸡(辛酉) 煞西\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:丁卯日 | 宜：嫁娶、纳采、开市等 | 忌：赴任
+UID:20330715@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330716
+DTEND;VALUE=DATE:20330717
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-16 星期六\n农历：二〇三三年六月
+ 二十\n干支：癸丑年 己未月 戊辰日\n宜：祭祀、作灶、
+ 纳财、捕捉\n忌：开市、破土\n冲煞：冲狗(壬戌) 煞南\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊辰日 | 宜：祭祀、作灶、纳财等 | 忌：开市、破
+ 土
+UID:20330716@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330717
+DTEND;VALUE=DATE:20330718
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-17 星期日\n农历：二〇三三年六月
+ 廿一\n干支：癸丑年 己未月 己巳日\n宜：嫁娶、开市、
+ 立券、祭祀、祈福、动土、移徙、入宅\n忌：造庙、安葬
+ \n冲煞：冲猪(癸亥) 煞东\n个人提示：与月柱相冲（巳冲
+ 亥）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己巳日 | 宜：嫁娶、开市、立券等 | 忌：造庙、安
+ 葬
+UID:20330717@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330718
+DTEND;VALUE=DATE:20330719
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-18 星期一\n农历：二〇三三年六月
+ 廿二\n干支：癸丑年 己未月 庚午日\n宜：补垣、塞穴、
+ 结网、入殓、除服、成服、移柩、安葬、启钻、馀事勿
+ 取\n忌：诸事不宜\n冲煞：冲鼠(甲子) 煞北\n命主：男 · 
+ 壬午 辛亥 己丑 丁卯
+SUMMARY:庚午日 | 宜：补垣、塞穴、结网等 | 忌：诸事不宜
+UID:20330718@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330719
+DTEND;VALUE=DATE:20330720
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-19 星期二\n农历：二〇三三年六月
+ 廿三\n干支：癸丑年 己未月 辛未日\n宜：嫁娶、纳采、
+ 出行、祭祀、祈福、解除、移徙、入宅\n忌：动土、安葬
+ \n冲煞：冲牛(乙丑) 煞西\n个人提示：与日柱相冲（未冲
+ 丑）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛未日 | 宜：嫁娶、纳采、出行等 | 忌：动土、安
+ 葬
+UID:20330719@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330720
+DTEND;VALUE=DATE:20330721
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-20 星期三\n农历：二〇三三年六月
+ 廿四\n干支：癸丑年 己未月 壬申日\n宜：嫁娶、祭祀、
+ 祈福、斋醮、治病、破土、安葬\n忌：开市、入宅\n冲煞
+ ：冲虎(丙寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬申日 | 宜：嫁娶、祭祀、祈福等 | 忌：开市、入
+ 宅
+UID:20330720@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330721
+DTEND;VALUE=DATE:20330722
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-21 星期四\n农历：二〇三三年六月
+ 廿五\n干支：癸丑年 己未月 癸酉日\n宜：嫁娶、出行、
+ 开市、安床、入殓、启钻、安葬\n忌：祈福、动土、破土
+ \n冲煞：冲兔(丁卯) 煞东\n个人提示：时柱天克地冲（癸
+ 克丁、酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸酉日 | 宜：嫁娶、出行、开市等 | 忌：祈福、动
+ 土、破土
+UID:20330721@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330722
+DTEND;VALUE=DATE:20330723
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-22 星期五\n农历：二〇三三年六月
+ 廿六\n干支：癸丑年 己未月 甲戌日\n宜：嫁娶、祭祀、
+ 裁衣、结网、冠笄、沐浴\n忌：开仓、出货财、置产、安
+ 葬、动土、破土、掘井、栽种\n冲煞：冲龙(戊辰) 煞北\n
+ 节气：大暑\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲戌日 | 宜：嫁娶、祭祀、裁衣等 | 忌：开仓、出
+ 货财、置产等
+UID:20330722@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330723
+DTEND;VALUE=DATE:20330724
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-23 星期六\n农历：二〇三三年六月
+ 廿七\n干支：癸丑年 己未月 乙亥日\n宜：入宅、移徙、
+ 安床、开光、祈福、求嗣、进人口、开市、交易、立券
+ 、出火、拆卸、修造、动土\n忌：嫁娶、破土、置产、栽
+ 种、安葬、修坟、行丧\n冲煞：冲蛇(己巳) 煞西\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙亥日 | 宜：入宅、移徙、安床等 | 忌：嫁娶、破
+ 土、置产等
+UID:20330723@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330724
+DTEND;VALUE=DATE:20330725
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-24 星期日\n农历：二〇三三年六月
+ 廿八\n干支：癸丑年 己未月 丙子日\n宜：祭祀、解除、
+ 沐浴、整手足甲、入殓、移柩、破土、启钻、安葬\n忌：
+ 嫁娶、入宅、移徙、作灶、开市、交易、安门、栽种\n冲
+ 煞：冲马(庚午) 煞南\n个人提示：与年柱相冲（子冲午）
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙子日 | 宜：祭祀、解除、沐浴等 | 忌：嫁娶、入
+ 宅、移徙等
+UID:20330724@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330725
+DTEND;VALUE=DATE:20330726
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-25 星期一\n农历：二〇三三年六月
+ 廿九\n干支：癸丑年 己未月 丁丑日\n宜：破屋、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲羊(辛未) 煞东\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁丑日 | 宜：破屋、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330725@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330726
+DTEND;VALUE=DATE:20330727
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-26 星期二\n农历：二〇三三年七月
+ 初一\n干支：癸丑年 己未月 戊寅日\n宜：嫁娶、开光、
+ 出行、理发、作梁、出火、拆卸、修造、开市、交易、
+ 立券、挂匾、动土、入宅、移徙、安床、栽种\n忌：伐木
+ 、祭祀、纳畜\n冲煞：冲猴(壬申) 煞北\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:戊寅日 | 宜：嫁娶、开光、出行等 | 忌：伐木、祭
+ 祀、纳畜
+UID:20330726@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330727
+DTEND;VALUE=DATE:20330728
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-27 星期三\n农历：二〇三三年七月
+ 初二\n干支：癸丑年 己未月 己卯日\n宜：嫁娶、开光、
+ 出行、祈福、求嗣、解除、拆卸、动土、修造、进人口
+ 、开市、交易、立券、挂匾、入宅、移徙、安床、栽种
+ 、纳畜、入殓、移柩、安葬\n忌：无\n冲煞：冲鸡(癸酉) 
+ 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己卯日 | 宜：嫁娶、开光、出行等 | 忌：无
+UID:20330727@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330728
+DTEND;VALUE=DATE:20330729
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-28 星期四\n农历：二〇三三年七月
+ 初三\n干支：癸丑年 己未月 庚辰日\n宜：祭祀、作灶、
+ 纳财、栽种、纳畜、进人口\n忌：安葬、经络、修坟、破
+ 土、开市、安床、启钻、立碑\n冲煞：冲狗(甲戌) 煞南\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚辰日 | 宜：祭祀、作灶、纳财等 | 忌：安葬、经
+ 络、修坟等
+UID:20330728@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330729
+DTEND;VALUE=DATE:20330730
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-29 星期五\n农历：二〇三三年七月
+ 初四\n干支：癸丑年 己未月 辛巳日\n宜：祭祀、祈福、
+ 求嗣、开光、开市、牧养、理发\n忌：嫁娶、出行、安葬
+ 、入殓、入宅、作灶、冠笄、上梁\n冲煞：冲猪(乙亥) 煞
+ 东\n个人提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:辛巳日 | 宜：祭祀、祈福、求嗣等 | 忌：嫁娶、出
+ 行、安葬等
+UID:20330729@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330730
+DTEND;VALUE=DATE:20330731
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-30 星期六\n农历：二〇三三年七月
+ 初五\n干支：癸丑年 己未月 壬午日\n宜：祭祀、入殓、
+ 破土、除服、成服、移柩、启钻、安葬、谢土、馀事勿
+ 取\n忌：无\n冲煞：冲鼠(丙子) 煞北\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:壬午日 | 宜：祭祀、入殓、破土等 | 忌：无
+UID:20330730@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330731
+DTEND;VALUE=DATE:20330801
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-07-31 星期日\n农历：二〇三三年七月
+ 初六\n干支：癸丑年 己未月 癸未日\n宜：祭祀、出行、
+ 交易、割蜜、造畜稠\n忌：嫁娶、作灶、安葬、动土、词
+ 讼、作梁、伐木、掘井、破土、移徙\n冲煞：冲牛(丁丑) 
+ 煞西\n个人提示：与日柱相冲（未冲丑）\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:癸未日 | 宜：祭祀、出行、交易等 | 忌：嫁娶、作
+ 灶、安葬等
+UID:20330731@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330801
+DTEND;VALUE=DATE:20330802
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-01 星期一\n农历：二〇三三年七月
+ 初七\n干支：癸丑年 己未月 甲申日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、出火、拆卸、修造、动土、进人口
+ 、开市、交易、立券、挂匾、入宅、移徙、栽种、纳畜
+ 、入殓、启钻、除服、成服\n忌：无\n冲煞：冲虎(戊寅) 
+ 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲申日 | 宜：嫁娶、祭祀、祈福等 | 忌：无
+UID:20330801@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330802
+DTEND;VALUE=DATE:20330803
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-02 星期二\n农历：二〇三三年七月
+ 初八\n干支：癸丑年 己未月 乙酉日\n宜：嫁娶、开光、
+ 解除、安床、牧养、理发、开市、入殓、启钻、移柩、
+ 安葬、扫舍\n忌：作灶、动土、上梁、栽种、入宅、移徙
+ 、修造、祈福\n冲煞：冲兔(己卯) 煞东\n个人提示：与时
+ 柱相冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙酉日 | 宜：嫁娶、开光、解除等 | 忌：作灶、动
+ 土、上梁等
+UID:20330802@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330803
+DTEND;VALUE=DATE:20330804
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-03 星期三\n农历：二〇三三年七月
+ 初九\n干支：癸丑年 己未月 丙戌日\n宜：祭祀、解除、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲龙(庚辰) 煞北\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙戌日 | 宜：祭祀、解除、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330803@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330804
+DTEND;VALUE=DATE:20330805
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-04 星期四\n农历：二〇三三年七月
+ 初十\n干支：癸丑年 己未月 丁亥日\n宜：祭祀、祈福、
+ 求嗣、开光、伐木、出火、拆卸、入宅、安床、修造、
+ 动土、上梁、挂匾、纳畜\n忌：嫁娶、栽种、行丧、理发
+ 、修坟、作灶\n冲煞：冲蛇(辛巳) 煞西\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:丁亥日 | 宜：祭祀、祈福、求嗣等 | 忌：嫁娶、栽
+ 种、行丧等
+UID:20330804@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330805
+DTEND;VALUE=DATE:20330806
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-05 星期五\n农历：二〇三三年七月
+ 十一\n干支：癸丑年 己未月 戊子日\n宜：解除、祭祀、
+ 理发、入殓、安葬、破土\n忌：嫁娶、开市、出火、作灶
+ 、置产、斋醮、入宅、移徙、安门\n冲煞：冲马(壬午) 煞
+ 南\n个人提示：年柱天克地冲（戊克壬、子冲午）\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊子日 | 宜：解除、祭祀、理发等 | 忌：嫁娶、开
+ 市、出火等
+UID:20330805@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330806
+DTEND;VALUE=DATE:20330807
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-06 星期六\n农历：二〇三三年七月
+ 十二\n干支：癸丑年 己未月 己丑日\n宜：破屋、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲羊(癸未) 煞东\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己丑日 | 宜：破屋、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330806@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330807
+DTEND;VALUE=DATE:20330808
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-07 星期日\n农历：二〇三三年七月
+ 十三\n干支：癸丑年 庚申月 庚寅日\n宜：破屋、坏垣、
+ 治病、馀事勿取\n忌：行丧、安葬\n冲煞：冲猴(甲申) 煞
+ 北\n节气：立秋\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚寅日 | 宜：破屋、坏垣、治病等 | 忌：行丧、安
+ 葬
+UID:20330807@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330808
+DTEND;VALUE=DATE:20330809
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-08 星期一\n农历：二〇三三年七月
+ 十四\n干支：癸丑年 庚申月 辛卯日\n宜：祈福、斋醮、
+ 出行、冠笄、嫁娶、雕刻、开柱眼、入宅、造桥、开市
+ 、交易、立券、纳财、入殓、除服、成服、移柩、破土
+ 、安葬、启钻\n忌：动土、订盟、安床、开池\n冲煞：冲
+ 鸡(乙酉) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛卯日 | 宜：祈福、斋醮、出行等 | 忌：动土、订
+ 盟、安床等
+UID:20330808@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330809
+DTEND;VALUE=DATE:20330810
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-09 星期二\n农历：二〇三三年七月
+ 十五\n干支：癸丑年 庚申月 壬辰日\n宜：祈福、求嗣、
+ 解除、订盟、纳采、动土、起基、放水、造仓、开市、
+ 纳畜、牧养、开生坟、入殓、除服、成服、移柩、破土
+ 、安葬\n忌：无\n冲煞：冲狗(丙戌) 煞南\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:壬辰日 | 宜：祈福、求嗣、解除等 | 忌：无
+UID:20330809@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330810
+DTEND;VALUE=DATE:20330811
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-10 星期三\n农历：二〇三三年七月
+ 十六\n干支：癸丑年 庚申月 癸巳日\n宜：塑绘、开光、
+ 解除、订盟、纳采、嫁娶、出火、修造、动土、移徙、
+ 入宅、拆卸、起基、安门、分居、开市、交易、立券、
+ 纳财、纳畜、牧养\n忌：无\n冲煞：冲猪(丁亥) 煞东\n个
+ 人提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:癸巳日 | 宜：塑绘、开光、解除等 | 忌：无
+UID:20330810@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330811
+DTEND;VALUE=DATE:20330812
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-11 星期四\n农历：二〇三三年七月
+ 十七\n干支：癸丑年 庚申月 甲午日\n宜：祈福、出行、
+ 订盟、纳采、嫁娶、裁衣、动土、安床、放水、开市、
+ 掘井、交易、立券、栽种、开渠、除服、成服、移柩、
+ 破土\n忌：无\n冲煞：冲鼠(戊子) 煞北\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:甲午日 | 宜：祈福、出行、订盟等 | 忌：无
+UID:20330811@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330812
+DTEND;VALUE=DATE:20330813
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-12 星期五\n农历：二〇三三年七月
+ 十八\n干支：癸丑年 庚申月 乙未日\n宜：嫁娶、祭祀、
+ 祈福、斋醮、作灶、移徙、入宅\n忌：动土、破土\n冲煞
+ ：冲牛(己丑) 煞西\n个人提示：日柱天克地冲（乙克己、
+ 未冲丑）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙未日 | 宜：嫁娶、祭祀、祈福等 | 忌：动土、破
+ 土
+UID:20330812@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330813
+DTEND;VALUE=DATE:20330814
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-13 星期六\n农历：二〇三三年七月
+ 十九\n干支：癸丑年 庚申月 丙申日\n宜：嫁娶、出行、
+ 纳畜、祭祀、入殓、启钻、安葬\n忌：作灶、动土、破土
+ \n冲煞：冲虎(庚寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:丙申日 | 宜：嫁娶、出行、纳畜等 | 忌：作灶、动
+ 土、破土
+UID:20330813@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330814
+DTEND;VALUE=DATE:20330815
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-14 星期日\n农历：二〇三三年七月
+ 二十\n干支：癸丑年 庚申月 丁酉日\n宜：订盟、纳采、
+ 祭祀、祈福、修造、动土、上梁、破土、安葬\n忌：嫁娶
+ 、开市\n冲煞：冲兔(辛卯) 煞东\n个人提示：与时柱相冲
+ （酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁酉日 | 宜：订盟、纳采、祭祀等 | 忌：嫁娶、开
+ 市
+UID:20330814@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330815
+DTEND;VALUE=DATE:20330816
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-15 星期一\n农历：二〇三三年七月
+ 廿一\n干支：癸丑年 庚申月 戊戌日\n宜：订盟、纳采、
+ 出行、会亲友、修造、上梁、移徙、入宅\n忌：开市、安
+ 葬\n冲煞：冲龙(壬辰) 煞北\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:戊戌日 | 宜：订盟、纳采、出行等 | 忌：开市、安
+ 葬
+UID:20330815@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330816
+DTEND;VALUE=DATE:20330817
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-16 星期二\n农历：二〇三三年七月
+ 廿二\n干支：癸丑年 庚申月 己亥日\n宜：沐浴、修饰垣
+ 墙、平治道涂、馀事勿取\n忌：嫁娶、祈福\n冲煞：冲蛇(
+ 癸巳) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己亥日 | 宜：沐浴、修饰垣墙、平治道涂等 | 忌：
+ 嫁娶、祈福
+UID:20330816@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330817
+DTEND;VALUE=DATE:20330818
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-17 星期三\n农历：二〇三三年七月
+ 廿三\n干支：癸丑年 庚申月 庚子日\n宜：嫁娶、祭祀、
+ 祈福、斋醮、动土、移徙、入宅\n忌：开市、安葬\n冲煞
+ ：冲马(甲午) 煞南\n个人提示：与年柱相冲（子冲午）\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚子日 | 宜：嫁娶、祭祀、祈福等 | 忌：开市、安
+ 葬
+UID:20330817@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330818
+DTEND;VALUE=DATE:20330819
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-18 星期四\n农历：二〇三三年七月
+ 廿四\n干支：癸丑年 庚申月 辛丑日\n宜：捕捉、结网、
+ 入殓、破土、安葬\n忌：嫁娶、入宅\n冲煞：冲羊(乙未) 
+ 煞东\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛丑日 | 宜：捕捉、结网、入殓等 | 忌：嫁娶、入
+ 宅
+UID:20330818@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330819
+DTEND;VALUE=DATE:20330820
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-19 星期五\n农历：二〇三三年七月
+ 廿五\n干支：癸丑年 庚申月 壬寅日\n宜：沐浴、治病、
+ 破屋、坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲猴(丙申
+ ) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬寅日 | 宜：沐浴、治病、破屋等 | 忌：诸事不宜
+UID:20330819@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330820
+DTEND;VALUE=DATE:20330821
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-20 星期六\n农历：二〇三三年七月
+ 廿六\n干支：癸丑年 庚申月 癸卯日\n宜：嫁娶、订盟、
+ 纳采、出行、开市、祭祀、祈福、移徙、入宅、启钻、
+ 安葬\n忌：动土、破土\n冲煞：冲鸡(丁酉) 煞西\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸卯日 | 宜：嫁娶、订盟、纳采等 | 忌：动土、破
+ 土
+UID:20330820@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330821
+DTEND;VALUE=DATE:20330822
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-21 星期日\n农历：二〇三三年七月
+ 廿七\n干支：癸丑年 庚申月 甲辰日\n宜：嫁娶、订盟、
+ 纳采、祭祀、祈福、求医、治病、动土、移徙、入宅、
+ 破土、安葬\n忌：开光、针灸\n冲煞：冲狗(戊戌) 煞南\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲辰日 | 宜：嫁娶、订盟、纳采等 | 忌：开光、针
+ 灸
+UID:20330821@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330822
+DTEND;VALUE=DATE:20330823
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-22 星期一\n农历：二〇三三年七月
+ 廿八\n干支：癸丑年 庚申月 乙巳日\n宜：订盟、纳采、
+ 祭祀、祈福、安机械、作灶、纳畜\n忌：动土、安葬\n冲
+ 煞：冲猪(己亥) 煞东\n个人提示：与月柱相冲（巳冲亥）
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙巳日 | 宜：订盟、纳采、祭祀等 | 忌：动土、安
+ 葬
+UID:20330822@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330823
+DTEND;VALUE=DATE:20330824
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-23 星期二\n农历：二〇三三年七月
+ 廿九\n干支：癸丑年 庚申月 丙午日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、出行、动土、安床、掘井、破土、启钻\n忌
+ ：入宅、作梁、安门、伐木、修造、上梁、入殓、盖屋\n
+ 冲煞：冲鼠(庚子) 煞北\n节气：处暑\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:丙午日 | 宜：嫁娶、祭祀、祈福等 | 忌：入宅、作
+ 梁、安门等
+UID:20330823@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330824
+DTEND;VALUE=DATE:20330825
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-24 星期三\n农历：二〇三三年七月
+ 三十\n干支：癸丑年 庚申月 丁未日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、出行、出火、拆卸、修造、移徙、动土、
+ 安床、入殓、破土、安葬、启钻\n忌：盖屋、开光、理发
+ 、造船、掘井、作灶\n冲煞：冲牛(辛丑) 煞西\n个人提示
+ ：与日柱相冲（未冲丑）\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:丁未日 | 宜：嫁娶、祭祀、祈福等 | 忌：盖屋、开
+ 光、理发等
+UID:20330824@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330825
+DTEND;VALUE=DATE:20330826
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-25 星期四\n农历：二〇三三年八月
+ 初一\n干支：癸丑年 庚申月 戊申日\n宜：祭祀、祈福、
+ 求嗣、开光、出行、解除、上梁、盖屋、移徙、安门、
+ 纳财、牧养、纳畜、安葬、启钻、入殓\n忌：破土、置产
+ 、掘井、动土、安床\n冲煞：冲虎(壬寅) 煞南\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊申日 | 宜：祭祀、祈福、求嗣等 | 忌：破土、置
+ 产、掘井等
+UID:20330825@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330826
+DTEND;VALUE=DATE:20330827
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-26 星期五\n农历：二〇三三年八月
+ 初二\n干支：癸丑年 庚申月 己酉日\n宜：祭祀、解除、
+ 沐浴、理发、整手足甲、入殓、移柩、破土、安葬、扫
+ 舍\n忌：嫁娶、会亲友、进人口、出行、入宅、移徙、赴
+ 任、作灶\n冲煞：冲兔(癸卯) 煞东\n个人提示：与时柱相
+ 冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己酉日 | 宜：祭祀、解除、沐浴等 | 忌：嫁娶、会
+ 亲友、进人口等
+UID:20330826@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330827
+DTEND;VALUE=DATE:20330828
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-27 星期六\n农历：二〇三三年八月
+ 初三\n干支：癸丑年 庚申月 庚戌日\n宜：塑绘、开光、
+ 进人口、纳畜、补垣、塞穴、栽种、牧养\n忌：嫁娶、纳
+ 财、祈福、安葬、修造、开市、交易、立券、动土、上
+ 梁\n冲煞：冲龙(甲辰) 煞北\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:庚戌日 | 宜：塑绘、开光、进人口等 | 忌：嫁娶、
+ 纳财、祈福等
+UID:20330827@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330828
+DTEND;VALUE=DATE:20330829
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-28 星期日\n农历：二〇三三年八月
+ 初四\n干支：癸丑年 庚申月 辛亥日\n宜：作灶、沐浴、
+ 修饰垣墙、平治道涂、馀事勿取\n忌：诸事不宜\n冲煞：
+ 冲蛇(乙巳) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛亥日 | 宜：作灶、沐浴、修饰垣墙等 | 忌：诸事
+ 不宜
+UID:20330828@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330829
+DTEND;VALUE=DATE:20330830
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-29 星期一\n农历：二〇三三年八月
+ 初五\n干支：癸丑年 庚申月 壬子日\n宜：祭祀、求嗣、
+ 开光、出行、伐木、作梁、出火、解除、拆卸、进人口
+ 、修造、动土、起基、安床、栽种、纳畜、入殓、破土
+ 、安葬、除服、成服\n忌：嫁娶、移徙\n冲煞：冲马(丙午
+ ) 煞南\n个人提示：与年柱相冲（子冲午）\n命主：男 · 
+ 壬午 辛亥 己丑 丁卯
+SUMMARY:壬子日 | 宜：祭祀、求嗣、开光等 | 忌：嫁娶、移
+ 徙
+UID:20330829@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330830
+DTEND;VALUE=DATE:20330831
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-30 星期二\n农历：二〇三三年八月
+ 初六\n干支：癸丑年 庚申月 癸丑日\n宜：祭祀、塞穴、
+ 入殓、破土、安葬、移柩、馀事勿取\n忌：诸事不宜\n冲
+ 煞：冲羊(丁未) 煞东\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸丑日 | 宜：祭祀、塞穴、入殓等 | 忌：诸事不宜
+UID:20330830@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330831
+DTEND;VALUE=DATE:20330901
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-08-31 星期三\n农历：二〇三三年八月
+ 初七\n干支：癸丑年 庚申月 甲寅日\n宜：破屋、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲猴(戊申) 煞北\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲寅日 | 宜：破屋、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330831@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330901
+DTEND;VALUE=DATE:20330902
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-01 星期四\n农历：二〇三三年八月
+ 初八\n干支：癸丑年 庚申月 乙卯日\n宜：祭祀、入殓、
+ 移柩、结网、启钻、安葬、除服、成服、馀事勿取\n忌：
+ 诸事不宜\n冲煞：冲鸡(己酉) 煞西\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:乙卯日 | 宜：祭祀、入殓、移柩等 | 忌：诸事不宜
+UID:20330901@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330902
+DTEND;VALUE=DATE:20330903
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-02 星期五\n农历：二〇三三年八月
+ 初九\n干支：癸丑年 庚申月 丙辰日\n宜：嫁娶、出火、
+ 拆卸、祭祀、祈福、开光、伐木、动土、开市、交易、
+ 立券、入宅、移徙、安床、纳畜、入殓、安葬\n忌：栽种
+ 、作灶、针灸、出行\n冲煞：冲狗(庚戌) 煞南\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙辰日 | 宜：嫁娶、出火、拆卸等 | 忌：栽种、作
+ 灶、针灸等
+UID:20330902@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330903
+DTEND;VALUE=DATE:20330904
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-03 星期六\n农历：二〇三三年八月
+ 初十\n干支：癸丑年 庚申月 丁巳日\n宜：祭祀、开光、
+ 解除、进人口、交易、立券、纳财、纳畜\n忌：动土、破
+ 土、嫁娶、理发、出行、入宅、移徙、分居、安香、出
+ 火\n冲煞：冲猪(辛亥) 煞东\n个人提示：月柱天克地冲（
+ 丁克辛、巳冲亥）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁巳日 | 宜：祭祀、开光、解除等 | 忌：动土、破
+ 土、嫁娶等
+UID:20330903@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330904
+DTEND;VALUE=DATE:20330905
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-04 星期日\n农历：二〇三三年八月
+ 十一\n干支：癸丑年 庚申月 戊午日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、出行、解除、安床、栽种、移柩、
+ 进人口、会亲友、除服、成服\n忌：盖屋、入殓、安葬、
+ 伐木、入宅、移徙、置产、纳畜\n冲煞：冲鼠(壬子) 煞北
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊午日 | 宜：嫁娶、祭祀、祈福等 | 忌：盖屋、入
+ 殓、安葬等
+UID:20330904@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330905
+DTEND;VALUE=DATE:20330906
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-05 星期一\n农历：二〇三三年八月
+ 十二\n干支：癸丑年 庚申月 己未日\n宜：祭祀、动土、
+ 筑堤、开池、会亲友、塞穴、入殓、移柩、破土、安葬\n
+ 忌：开光、出行、修造、上梁、入宅、安门、作灶、裁
+ 衣\n冲煞：冲牛(癸丑) 煞西\n个人提示：与日柱相冲（未
+ 冲丑）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己未日 | 宜：祭祀、动土、筑堤等 | 忌：开光、出
+ 行、修造等
+UID:20330905@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330906
+DTEND;VALUE=DATE:20330907
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-06 星期二\n农历：二〇三三年八月
+ 十三\n干支：癸丑年 庚申月 庚申日\n宜：祭祀、裁衣、
+ 安门、纳财、扫舍、出行、进人口、作灶、纳畜、造畜
+ 稠\n忌：安床、动土、安葬、开生坟、合寿木\n冲煞：冲
+ 虎(甲寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚申日 | 宜：祭祀、裁衣、安门等 | 忌：安床、动
+ 土、安葬等
+UID:20330906@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330907
+DTEND;VALUE=DATE:20330908
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-07 星期三\n农历：二〇三三年八月
+ 十四\n干支：癸丑年 辛酉月 辛酉日\n宜：祭祀、祈福、
+ 求嗣、出行、沐浴、交易、扫舍、教牛马\n忌：动土、作
+ 灶、行丧、安葬、修坟\n冲煞：冲兔(乙卯) 煞东\n节气：
+ 白露\n个人提示：与时柱相冲（酉冲卯）\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:辛酉日 | 宜：祭祀、祈福、求嗣等 | 忌：动土、作
+ 灶、行丧等
+UID:20330907@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330908
+DTEND;VALUE=DATE:20330909
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-08 星期四\n农历：二〇三三年八月
+ 十五\n干支：癸丑年 辛酉月 壬戌日\n宜：出行、解除、
+ 纳采、冠笄、雕刻、修造、动土、起基、上梁、合脊、
+ 安床、移徙、入宅、开市、栽种、开厕\n忌：造庙、安门
+ 、行丧、安葬\n冲煞：冲龙(丙辰) 煞北\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:壬戌日 | 宜：出行、解除、纳采等 | 忌：造庙、安
+ 门、行丧等
+UID:20330908@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330909
+DTEND;VALUE=DATE:20330910
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-09 星期五\n农历：二〇三三年八月
+ 十六\n干支：癸丑年 辛酉月 癸亥日\n宜：开光、塑绘、
+ 出行、解除、冠笄、裁衣、挂匾、作灶、开市、开池、
+ 开厕、补垣、塞穴\n忌：无\n冲煞：冲蛇(丁巳) 煞西\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸亥日 | 宜：开光、塑绘、出行等 | 忌：无
+UID:20330909@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330910
+DTEND;VALUE=DATE:20330911
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-10 星期六\n农历：二〇三三年八月
+ 十七\n干支：癸丑年 辛酉月 甲子日\n宜：祭祀、祈福、
+ 修饰垣墙、平治道涂、入殓、移柩\n忌：嫁娶、入宅、上
+ 梁、安门\n冲煞：冲马(戊午) 煞南\n个人提示：与年柱相
+ 冲（子冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲子日 | 宜：祭祀、祈福、修饰垣墙等 | 忌：嫁娶
+ 、入宅、上梁等
+UID:20330910@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330911
+DTEND;VALUE=DATE:20330912
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-11 星期日\n农历：二〇三三年八月
+ 十八\n干支：癸丑年 辛酉月 乙丑日\n宜：祭祀、会亲友
+ 、纳采、嫁娶、开光、塑绘、斋醮、安香、开市、立券
+ 、除服、成服、入殓、移柩、安葬、赴任、进人口、出
+ 行、裁衣、修造、动土、上梁、经络、交易\n忌：入宅、
+ 伐木\n冲煞：冲羊(己未) 煞东\n命主：男 · 壬午 辛亥 己
+ 丑 丁卯
+SUMMARY:乙丑日 | 宜：祭祀、会亲友、纳采等 | 忌：入宅、
+ 伐木
+UID:20330911@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330912
+DTEND;VALUE=DATE:20330913
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-12 星期一\n农历：二〇三三年八月
+ 十九\n干支：癸丑年 辛酉月 丙寅日\n宜：祭祀、冠笄、
+ 会亲友、拆卸、起基、除服、成服、移柩、启钻、安葬
+ 、沐浴、捕捉、开光、塑绘\n忌：作灶、入宅、嫁娶\n冲
+ 煞：冲猴(庚申) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙寅日 | 宜：祭祀、冠笄、会亲友等 | 忌：作灶、
+ 入宅、嫁娶
+UID:20330912@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330913
+DTEND;VALUE=DATE:20330914
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-13 星期二\n农历：二〇三三年八月
+ 二十\n干支：癸丑年 辛酉月 丁卯日\n宜：祭祀、沐浴、
+ 破屋、坏垣、馀事勿取\n忌：移徙、入宅、出行、栽种\n
+ 冲煞：冲鸡(辛酉) 煞西\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:丁卯日 | 宜：祭祀、沐浴、破屋等 | 忌：移徙、入
+ 宅、出行等
+UID:20330913@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330914
+DTEND;VALUE=DATE:20330915
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-14 星期三\n农历：二〇三三年八月
+ 廿一\n干支：癸丑年 辛酉月 戊辰日\n宜：祭祀、塑绘、
+ 开光、出行、解除、订盟、嫁娶、拆卸、起基、安床、
+ 入宅、开市、入殓、除服、成服、移柩、破土、谢土、
+ 挂匾、开柱眼、交易\n忌：造桥、冠笄、盖屋、掘井\n冲
+ 煞：冲狗(壬戌) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊辰日 | 宜：祭祀、塑绘、开光等 | 忌：造桥、冠
+ 笄、盖屋等
+UID:20330914@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330915
+DTEND;VALUE=DATE:20330916
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-15 星期四\n农历：二〇三三年八月
+ 廿二\n干支：癸丑年 辛酉月 己巳日\n宜：祭祀、会亲友
+ 、进人口、动土、上梁、开光、塑绘、冠笄、拆卸、起
+ 基、安床、开市、立券、赴任、经络\n忌：定磉、安葬\n
+ 冲煞：冲猪(癸亥) 煞东\n个人提示：与月柱相冲（巳冲亥
+ ）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己巳日 | 宜：祭祀、会亲友、进人口等 | 忌：定磉
+ 、安葬
+UID:20330915@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330916
+DTEND;VALUE=DATE:20330917
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-16 星期五\n农历：二〇三三年八月
+ 廿三\n干支：癸丑年 辛酉月 庚午日\n宜：祭祀、裁衣、
+ 冠笄、嫁娶、纳婿、会亲友、除服、成服、移柩、捕捉
+ 、进人口、入殓\n忌：移徙、入宅、作灶\n冲煞：冲鼠(甲
+ 子) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚午日 | 宜：祭祀、裁衣、冠笄等 | 忌：移徙、入
+ 宅、作灶
+UID:20330916@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330917
+DTEND;VALUE=DATE:20330918
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-17 星期六\n农历：二〇三三年八月
+ 廿四\n干支：癸丑年 辛酉月 辛未日\n宜：诸事不宜\n忌：
+ 入殓、安葬、开市、交易\n冲煞：冲牛(乙丑) 煞西\n个人
+ 提示：与日柱相冲（未冲丑）\n命主：男 · 壬午 辛亥 己
+ 丑 丁卯
+SUMMARY:辛未日 | 宜：诸事不宜 | 忌：入殓、安葬、开市等
+UID:20330917@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330918
+DTEND;VALUE=DATE:20330919
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-18 星期日\n农历：二〇三三年八月
+ 廿五\n干支：癸丑年 辛酉月 壬申日\n宜：祭祀、裁衣、
+ 冠笄、嫁娶、安机械、拆卸、动土、起基、移徙、入宅
+ 、入殓、启钻、安葬、造仓、经络\n忌：安床、开光、开
+ 市、交易\n冲煞：冲虎(丙寅) 煞南\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:壬申日 | 宜：祭祀、裁衣、冠笄等 | 忌：安床、开
+ 光、开市等
+UID:20330918@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330919
+DTEND;VALUE=DATE:20330920
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-19 星期一\n农历：二〇三三年八月
+ 廿六\n干支：癸丑年 辛酉月 癸酉日\n宜：祭祀、出行、
+ 成服、除服、沐浴、入殓\n忌：动土、冠笄、移徙、入宅
+ 、开市、竖柱、上梁\n冲煞：冲兔(丁卯) 煞东\n个人提示
+ ：时柱天克地冲（癸克丁、酉冲卯）\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:癸酉日 | 宜：祭祀、出行、成服等 | 忌：动土、冠
+ 笄、移徙等
+UID:20330919@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330920
+DTEND;VALUE=DATE:20330921
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-20 星期二\n农历：二〇三三年八月
+ 廿七\n干支：癸丑年 辛酉月 甲戌日\n宜：祭祀、沐浴、
+ 赴任、出行、馀事勿取\n忌：诸事不宜\n冲煞：冲龙(戊辰
+ ) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲戌日 | 宜：祭祀、沐浴、赴任等 | 忌：诸事不宜
+UID:20330920@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330921
+DTEND;VALUE=DATE:20330922
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-21 星期三\n农历：二〇三三年八月
+ 廿八\n干支：癸丑年 辛酉月 乙亥日\n宜：诸事不宜\n忌：
+ 无\n冲煞：冲蛇(己巳) 煞西\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:乙亥日 | 宜：诸事不宜 | 忌：无
+UID:20330921@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330922
+DTEND;VALUE=DATE:20330923
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-22 星期四\n农历：二〇三三年八月
+ 廿九\n干支：癸丑年 辛酉月 丙子日\n宜：沐浴、入殓、
+ 移柩、除服、成服、破土、平治道涂\n忌：嫁娶、移徙、
+ 入宅、开市\n冲煞：冲马(庚午) 煞南\n个人提示：与年柱
+ 相冲（子冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙子日 | 宜：沐浴、入殓、移柩等 | 忌：嫁娶、移
+ 徙、入宅等
+UID:20330922@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330923
+DTEND;VALUE=DATE:20330924
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-23 星期五\n农历：二〇三三年九月
+ 初一\n干支：癸丑年 辛酉月 丁丑日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、沐浴、出火、出行、拆卸、修造、动土、
+ 进人口、开市、交易、立券、入宅、移徙、安床、栽种
+ 、纳畜、入殓、安葬、启钻、除服、成服\n忌：无\n冲煞
+ ：冲羊(辛未) 煞东\n节气：秋分\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:丁丑日 | 宜：嫁娶、祭祀、祈福等 | 忌：无
+UID:20330923@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330924
+DTEND;VALUE=DATE:20330925
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-24 星期六\n农历：二〇三三年九月
+ 初二\n干支：癸丑年 辛酉月 戊寅日\n宜：开光、解除、
+ 起基、动土、拆卸、上梁、立碑、修坟、安葬、破土、
+ 启钻、移柩\n忌：嫁娶、出行、安床、作灶、祭祀、入宅
+ 、移徙、出火、进人口、置产\n冲煞：冲猴(壬申) 煞北\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊寅日 | 宜：开光、解除、起基等 | 忌：嫁娶、出
+ 行、安床等
+UID:20330924@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330925
+DTEND;VALUE=DATE:20330926
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-25 星期日\n农历：二〇三三年九月
+ 初三\n干支：癸丑年 辛酉月 己卯日\n宜：破屋、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲鸡(癸酉) 煞西\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己卯日 | 宜：破屋、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20330925@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330926
+DTEND;VALUE=DATE:20330927
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-26 星期一\n农历：二〇三三年九月
+ 初四\n干支：癸丑年 辛酉月 庚辰日\n宜：嫁娶、祈福、
+ 求嗣、出行、出火、拆卸、修造、动土、上梁、开光、
+ 进人口、开市、交易、立券、挂匾、安床、入宅、移徙
+ 、栽种、伐木、入殓、破土、除服、成服\n忌：无\n冲煞
+ ：冲狗(甲戌) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚辰日 | 宜：嫁娶、祈福、求嗣等 | 忌：无
+UID:20330926@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330927
+DTEND;VALUE=DATE:20330928
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-27 星期二\n农历：二〇三三年九月
+ 初五\n干支：癸丑年 辛酉月 辛巳日\n宜：开市、交易、
+ 立券、挂匾、祭祀、开光、进人口、入宅、安床、出火
+ 、拆卸、修造、动土、栽种\n忌：嫁娶、立碑、出行、伐
+ 木、安葬、行丧、移徙、纳畜\n冲煞：冲猪(乙亥) 煞东\n
+ 个人提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:辛巳日 | 宜：开市、交易、立券等 | 忌：嫁娶、立
+ 碑、出行等
+UID:20330927@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330928
+DTEND;VALUE=DATE:20330929
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-28 星期三\n农历：二〇三三年九月
+ 初六\n干支：癸丑年 辛酉月 壬午日\n宜：祭祀、理发、
+ 会亲友、进人口、嫁娶、针灸、入殓、移柩\n忌：探病、
+ 开渠、安葬、伐木、作灶、入宅\n冲煞：冲鼠(丙子) 煞北
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬午日 | 宜：祭祀、理发、会亲友等 | 忌：探病、
+ 开渠、安葬等
+UID:20330928@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330929
+DTEND;VALUE=DATE:20330930
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-29 星期四\n农历：二〇三三年九月
+ 初七\n干支：癸丑年 辛酉月 癸未日\n宜：祭祀、立碑、
+ 修坟、启钻、除服、成服、馀事勿取\n忌：无\n冲煞：冲
+ 牛(丁丑) 煞西\n个人提示：与日柱相冲（未冲丑）\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸未日 | 宜：祭祀、立碑、修坟等 | 忌：无
+UID:20330929@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20330930
+DTEND;VALUE=DATE:20331001
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-09-30 星期五\n农历：二〇三三年九月
+ 初八\n干支：癸丑年 辛酉月 甲申日\n宜：嫁娶、出行、
+ 伐木、拆卸、修造、动土、移徙、安葬、破土、修坟、
+ 立碑\n忌：掘井、祈福、安床、开市、入宅、挂匾、开光
+ \n冲煞：冲虎(戊寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:甲申日 | 宜：嫁娶、出行、伐木等 | 忌：掘井、祈
+ 福、安床等
+UID:20330930@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331001
+DTEND;VALUE=DATE:20331002
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-01 星期六\n农历：二〇三三年九月
+ 初九\n干支：癸丑年 辛酉月 乙酉日\n宜：祭祀、出行、
+ 扫舍、馀事勿取\n忌：诸事不宜\n冲煞：冲兔(己卯) 煞东
+ \n个人提示：与时柱相冲（酉冲卯）\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:乙酉日 | 宜：祭祀、出行、扫舍等 | 忌：诸事不宜
+UID:20331001@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331002
+DTEND;VALUE=DATE:20331003
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-02 星期日\n农历：二〇三三年九月
+ 初十\n干支：癸丑年 辛酉月 丙戌日\n宜：嫁娶、祭祀、
+ 塑绘、开光、出行、解除、理发、整手足甲、动土、安
+ 床、开池、放水、扫舍\n忌：伐木、行丧、作灶、作梁、
+ 安葬\n冲煞：冲龙(庚辰) 煞北\n命主：男 · 壬午 辛亥 己
+ 丑 丁卯
+SUMMARY:丙戌日 | 宜：嫁娶、祭祀、塑绘等 | 忌：伐木、行
+ 丧、作灶等
+UID:20331002@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331003
+DTEND;VALUE=DATE:20331004
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-03 星期一\n农历：二〇三三年九月
+ 十一\n干支：癸丑年 辛酉月 丁亥日\n宜：开市、交易、
+ 立券、挂匾、开光、出行、入宅、移徙、安床、出火、
+ 上梁\n忌：作灶、行丧、理发、乘船、嫁娶、安葬\n冲煞
+ ：冲蛇(辛巳) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁亥日 | 宜：开市、交易、立券等 | 忌：作灶、行
+ 丧、理发等
+UID:20331003@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331004
+DTEND;VALUE=DATE:20331005
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-04 星期二\n农历：二〇三三年九月
+ 十二\n干支：癸丑年 辛酉月 戊子日\n宜：祭祀、沐浴、
+ 修饰垣墙、平治道涂、馀事勿取\n忌：诸事不宜\n冲煞：
+ 冲马(壬午) 煞南\n个人提示：年柱天克地冲（戊克壬、子
+ 冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊子日 | 宜：祭祀、沐浴、修饰垣墙等 | 忌：诸事
+ 不宜
+UID:20331004@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331005
+DTEND;VALUE=DATE:20331006
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-05 星期三\n农历：二〇三三年九月
+ 十三\n干支：癸丑年 辛酉月 己丑日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、出行、出火、拆卸、修造、动土、
+ 进人口、入宅、移徙、安床、开市、交易、立券、挂匾
+ 、栽种、纳畜、入殓、安葬、除服、成服\n忌：无\n冲煞
+ ：冲羊(癸未) 煞东\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己丑日 | 宜：嫁娶、祭祀、祈福等 | 忌：无
+UID:20331005@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331006
+DTEND;VALUE=DATE:20331007
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-06 星期四\n农历：二〇三三年九月
+ 十四\n干支：癸丑年 辛酉月 庚寅日\n宜：解除、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲猴(甲申) 煞北\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚寅日 | 宜：解除、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20331006@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331007
+DTEND;VALUE=DATE:20331008
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-07 星期五\n农历：二〇三三年九月
+ 十五\n干支：癸丑年 辛酉月 辛卯日\n宜：祭祀、治病、
+ 破屋、坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲鸡(乙酉
+ ) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛卯日 | 宜：祭祀、治病、破屋等 | 忌：诸事不宜
+UID:20331007@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331008
+DTEND;VALUE=DATE:20331009
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-08 星期六\n农历：二〇三三年九月
+ 十六\n干支：癸丑年 壬戌月 壬辰日\n宜：破屋、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲狗(丙戌) 煞南\n节气
+ ：寒露\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬辰日 | 宜：破屋、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20331008@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331009
+DTEND;VALUE=DATE:20331010
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-09 星期日\n农历：二〇三三年九月
+ 十七\n干支：癸丑年 壬戌月 癸巳日\n宜：会亲友、嫁娶
+ 、订盟、纳采、纳婿、拆卸、修造、动土、起基、竖柱
+ 、上梁、安床、纳财\n忌：出行、祈福、安葬、作灶\n冲
+ 煞：冲猪(丁亥) 煞东\n个人提示：与月柱相冲（巳冲亥）
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸巳日 | 宜：会亲友、嫁娶、订盟等 | 忌：出行、
+ 祈福、安葬等
+UID:20331009@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331010
+DTEND;VALUE=DATE:20331011
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-10 星期一\n农历：二〇三三年九月
+ 十八\n干支：癸丑年 壬戌月 甲午日\n宜：祭祀、塑绘、
+ 开光、祈福、斋醮、出行、订盟、纳采、裁衣、嫁娶、
+ 拆卸、修造、安床、入宅、安香、入殓、启钻、安葬、
+ 谢土、赴任、会亲友、进人口、移徙、上梁、经络、开
+ 市、交易、立券、纳财\n忌：开仓、冠笄、伐木、作梁\n
+ 冲煞：冲鼠(戊子) 煞北\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:甲午日 | 宜：祭祀、塑绘、开光等 | 忌：开仓、冠
+ 笄、伐木等
+UID:20331010@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331011
+DTEND;VALUE=DATE:20331012
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-11 星期二\n农历：二〇三三年九月
+ 十九\n干支：癸丑年 壬戌月 乙未日\n宜：祭祀、作灶、
+ 入殓、除服、成服、畋猎\n忌：栽种、动土、安葬、开市
+ \n冲煞：冲牛(己丑) 煞西\n个人提示：日柱天克地冲（乙
+ 克己、未冲丑）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙未日 | 宜：祭祀、作灶、入殓等 | 忌：栽种、动
+ 土、安葬等
+UID:20331011@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331012
+DTEND;VALUE=DATE:20331013
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-12 星期三\n农历：二〇三三年九月
+ 二十\n干支：癸丑年 壬戌月 丙申日\n宜：祭祀、祈福、
+ 斋醮、沐浴、竖柱、订盟、纳采、嫁娶、拆卸、入宅、
+ 移柩、启钻、谢土、赴任、出火、纳畜\n忌：作灶、入殓
+ 、安葬、安床\n冲煞：冲虎(庚寅) 煞南\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:丙申日 | 宜：祭祀、祈福、斋醮等 | 忌：作灶、入
+ 殓、安葬等
+UID:20331012@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331013
+DTEND;VALUE=DATE:20331014
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-13 星期四\n农历：二〇三三年九月
+ 廿一\n干支：癸丑年 壬戌月 丁酉日\n宜：嫁娶、祭祀、
+ 安机械、入殓、破土、安葬\n忌：动土、上梁\n冲煞：冲
+ 兔(辛卯) 煞东\n个人提示：与时柱相冲（酉冲卯）\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁酉日 | 宜：嫁娶、祭祀、安机械等 | 忌：动土、
+ 上梁
+UID:20331013@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331014
+DTEND;VALUE=DATE:20331015
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-14 星期五\n农历：二〇三三年九月
+ 廿二\n干支：癸丑年 壬戌月 戊戌日\n宜：作灶、造畜稠\n
+ 忌：行丧、安葬\n冲煞：冲龙(壬辰) 煞北\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:戊戌日 | 宜：作灶、造畜稠 | 忌：行丧、安葬
+UID:20331014@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331015
+DTEND;VALUE=DATE:20331016
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-15 星期六\n农历：二〇三三年九月
+ 廿三\n干支：癸丑年 壬戌月 己亥日\n宜：沐浴、理发、
+ 入学、习艺、进人口\n忌：嫁娶、入宅\n冲煞：冲蛇(癸巳
+ ) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己亥日 | 宜：沐浴、理发、入学等 | 忌：嫁娶、入
+ 宅
+UID:20331015@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331016
+DTEND;VALUE=DATE:20331017
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-16 星期日\n农历：二〇三三年九月
+ 廿四\n干支：癸丑年 壬戌月 庚子日\n宜：开光、针灸、
+ 会亲友、启钻、安葬\n忌：开市、动土、破土\n冲煞：冲
+ 马(甲午) 煞南\n个人提示：与年柱相冲（子冲午）\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚子日 | 宜：开光、针灸、会亲友等 | 忌：开市、
+ 动土、破土
+UID:20331016@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331017
+DTEND;VALUE=DATE:20331018
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-17 星期一\n农历：二〇三三年九月
+ 廿五\n干支：癸丑年 壬戌月 辛丑日\n宜：祭祀、结网、
+ 造畜稠、馀事勿取\n忌：无\n冲煞：冲羊(乙未) 煞东\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛丑日 | 宜：祭祀、结网、造畜稠等 | 忌：无
+UID:20331017@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331018
+DTEND;VALUE=DATE:20331019
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-18 星期二\n农历：二〇三三年九月
+ 廿六\n干支：癸丑年 壬戌月 壬寅日\n宜：入殓、除服、
+ 成服、移柩、破土、启钻、安葬\n忌：移徙、入宅\n冲煞
+ ：冲猴(丙申) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬寅日 | 宜：入殓、除服、成服等 | 忌：移徙、入
+ 宅
+UID:20331018@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331019
+DTEND;VALUE=DATE:20331020
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-19 星期三\n农历：二〇三三年九月
+ 廿七\n干支：癸丑年 壬戌月 癸卯日\n宜：嫁娶、订盟、
+ 纳采、出行、祭祀、祈福、动土、移徙、入宅、破土、
+ 安葬\n忌：开市、赴任\n冲煞：冲鸡(丁酉) 煞西\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸卯日 | 宜：嫁娶、订盟、纳采等 | 忌：开市、赴
+ 任
+UID:20331019@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331020
+DTEND;VALUE=DATE:20331021
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-20 星期四\n农历：二〇三三年九月
+ 廿八\n干支：癸丑年 壬戌月 甲辰日\n宜：祭祀、解除、
+ 破屋、坏垣、馀事勿取\n忌：无\n冲煞：冲狗(戊戌) 煞南
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲辰日 | 宜：祭祀、解除、破屋等 | 忌：无
+UID:20331020@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331021
+DTEND;VALUE=DATE:20331022
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-21 星期五\n农历：二〇三三年九月
+ 廿九\n干支：癸丑年 壬戌月 乙巳日\n宜：订盟、纳采、
+ 会亲友、安机械、纳财、牧养\n忌：祈福、安葬\n冲煞：
+ 冲猪(己亥) 煞东\n个人提示：与月柱相冲（巳冲亥）\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙巳日 | 宜：订盟、纳采、会亲友等 | 忌：祈福、
+ 安葬
+UID:20331021@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331022
+DTEND;VALUE=DATE:20331023
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-22 星期六\n农历：二〇三三年九月
+ 三十\n干支：癸丑年 壬戌月 丙午日\n宜：嫁娶、订盟、
+ 纳采、出行、开市、祭祀、祈福、动土、移徙、入宅、
+ 破土、安葬\n忌：斋醮、安门\n冲煞：冲鼠(庚子) 煞北\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙午日 | 宜：嫁娶、订盟、纳采等 | 忌：斋醮、安
+ 门
+UID:20331022@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331023
+DTEND;VALUE=DATE:20331024
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-23 星期日\n农历：二〇三三年十月
+ 初一\n干支：癸丑年 壬戌月 丁未日\n宜：祭祀、塞穴、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲牛(辛丑) 煞西\n节气
+ ：霜降\n个人提示：与日柱相冲（未冲丑）\n命主：男 · 
+ 壬午 辛亥 己丑 丁卯
+SUMMARY:丁未日 | 宜：祭祀、塞穴、馀事勿取 | 忌：诸事不
+ 宜
+UID:20331023@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331024
+DTEND;VALUE=DATE:20331025
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-24 星期一\n农历：二〇三三年十月
+ 初二\n干支：癸丑年 壬戌月 戊申日\n宜：祭祀、祈福、
+ 求嗣、开光、开市、出行、解除、动土、起基、置产、
+ 栽种\n忌：嫁娶、作灶、修坟、安门、入宅、立碑、安葬
+ 、安床\n冲煞：冲虎(壬寅) 煞南\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:戊申日 | 宜：祭祀、祈福、求嗣等 | 忌：嫁娶、作
+ 灶、修坟等
+UID:20331024@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331025
+DTEND;VALUE=DATE:20331026
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-25 星期二\n农历：二〇三三年十月
+ 初三\n干支：癸丑年 壬戌月 己酉日\n宜：祭祀、解除、
+ 裁衣、理发、安床、作灶、造畜稠、放水、筑堤、补垣
+ 、塞穴、整手足甲、扫舍\n忌：嫁娶、开光、会亲友、掘
+ 井、安门、栽种\n冲煞：冲兔(癸卯) 煞东\n个人提示：与
+ 时柱相冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己酉日 | 宜：祭祀、解除、裁衣等 | 忌：嫁娶、开
+ 光、会亲友等
+UID:20331025@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331026
+DTEND;VALUE=DATE:20331027
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-26 星期三\n农历：二〇三三年十月
+ 初四\n干支：癸丑年 壬戌月 庚戌日\n宜：祭祀、出行、
+ 裁衣、冠笄、会亲友、造畜稠、嫁娶、竖柱、上梁、移
+ 徙、纳财、纳畜\n忌：动土、伐木、作梁、行丧、安葬、
+ 开生坟\n冲煞：冲龙(甲辰) 煞北\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:庚戌日 | 宜：祭祀、出行、裁衣等 | 忌：动土、伐
+ 木、作梁等
+UID:20331026@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331027
+DTEND;VALUE=DATE:20331028
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-27 星期四\n农历：二〇三三年十月
+ 初五\n干支：癸丑年 壬戌月 辛亥日\n宜：祭祀、祈福、
+ 求嗣、开光、出行、解除、移徙、伐木、安床、纳畜、
+ 出火、拆卸\n忌：安葬、修坟、作灶、破土、造庙、动土
+ 、嫁娶、纳采\n冲煞：冲蛇(乙巳) 煞西\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:辛亥日 | 宜：祭祀、祈福、求嗣等 | 忌：安葬、修
+ 坟、作灶等
+UID:20331027@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331028
+DTEND;VALUE=DATE:20331029
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-28 星期五\n农历：二〇三三年十月
+ 初六\n干支：癸丑年 壬戌月 壬子日\n宜：开市、交易、
+ 立券、纳财、会亲友、开光、理发、入殓、移柩、安葬
+ 、启钻\n忌：嫁娶、作灶、出火、出行、入宅、移徙、安
+ 床、祈福、上梁\n冲煞：冲马(丙午) 煞南\n个人提示：与
+ 年柱相冲（子冲午）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬子日 | 宜：开市、交易、立券等 | 忌：嫁娶、作
+ 灶、出火等
+UID:20331028@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331029
+DTEND;VALUE=DATE:20331030
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-29 星期六\n农历：二〇三三年十月
+ 初七\n干支：癸丑年 壬戌月 癸丑日\n宜：造畜稠、平治
+ 道涂、馀事勿取\n忌：诸事不宜\n冲煞：冲羊(丁未) 煞东
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸丑日 | 宜：造畜稠、平治道涂、馀事勿取 | 忌：
+ 诸事不宜
+UID:20331029@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331030
+DTEND;VALUE=DATE:20331031
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-30 星期日\n农历：二〇三三年十月
+ 初八\n干支：癸丑年 壬戌月 甲寅日\n宜：入殓、破土、
+ 安葬、启钻、除服、成服、馀事勿取\n忌：无\n冲煞：冲
+ 猴(戊申) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲寅日 | 宜：入殓、破土、安葬等 | 忌：无
+UID:20331030@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331031
+DTEND;VALUE=DATE:20331101
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-10-31 星期一\n农历：二〇三三年十月
+ 初九\n干支：癸丑年 壬戌月 乙卯日\n宜：祭祀、入殓、
+ 移柩、开生坟、破土、启钻、安葬、除服、成服、馀事
+ 勿取\n忌：无\n冲煞：冲鸡(己酉) 煞西\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:乙卯日 | 宜：祭祀、入殓、移柩等 | 忌：无
+UID:20331031@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331101
+DTEND;VALUE=DATE:20331102
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-01 星期二\n农历：二〇三三年十月
+ 初十\n干支：癸丑年 壬戌月 丙辰日\n宜：祭祀、解除、
+ 破屋、坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲狗(庚戌
+ ) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙辰日 | 宜：祭祀、解除、破屋等 | 忌：诸事不宜
+UID:20331101@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331102
+DTEND;VALUE=DATE:20331103
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-02 星期三\n农历：二〇三三年十月
+ 十一\n干支：癸丑年 壬戌月 丁巳日\n宜：嫁娶、求嗣、
+ 纳采、进人口、纳财、结网、纳畜、牧养、会亲友\n忌：
+ 上梁、作灶、伐木、出行、安葬、安门、理发\n冲煞：冲
+ 猪(辛亥) 煞东\n个人提示：月柱天克地冲（丁克辛、巳冲
+ 亥）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁巳日 | 宜：嫁娶、求嗣、纳采等 | 忌：上梁、作
+ 灶、伐木等
+UID:20331102@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331103
+DTEND;VALUE=DATE:20331104
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-03 星期四\n农历：二〇三三年十月
+ 十二\n干支：癸丑年 壬戌月 戊午日\n宜：嫁娶、祭祀、
+ 开市、开光、出行、入宅、移徙、出火、拆卸、修造、
+ 安床\n忌：纳畜、伐木、置产、作梁、行丧、安葬、修坟
+ 、立碑\n冲煞：冲鼠(壬子) 煞北\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:戊午日 | 宜：嫁娶、祭祀、开市等 | 忌：纳畜、伐
+ 木、置产等
+UID:20331103@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331104
+DTEND;VALUE=DATE:20331105
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-04 星期五\n农历：二〇三三年十月
+ 十三\n干支：癸丑年 壬戌月 己未日\n宜：嫁娶、祭祀、
+ 作灶、纳财\n忌：安葬、开市、修坟、立碑\n冲煞：冲牛(
+ 癸丑) 煞西\n个人提示：与日柱相冲（未冲丑）\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己未日 | 宜：嫁娶、祭祀、作灶等 | 忌：安葬、开
+ 市、修坟等
+UID:20331104@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331105
+DTEND;VALUE=DATE:20331106
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-05 星期六\n农历：二〇三三年十月
+ 十四\n干支：癸丑年 壬戌月 庚申日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、出行、解除、出火、进人口、开市
+ 、交易、立券、挂匾、纳财、入宅、移徙、栽种、破土
+ 、谢土\n忌：安床、安葬\n冲煞：冲虎(甲寅) 煞南\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚申日 | 宜：嫁娶、祭祀、祈福等 | 忌：安床、安
+ 葬
+UID:20331105@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331106
+DTEND;VALUE=DATE:20331107
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-06 星期日\n农历：二〇三三年十月
+ 十五\n干支：癸丑年 壬戌月 辛酉日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、动土、安床、扫舍、入殓、移柩、破土、
+ 启钻、安葬、作灶、整手足甲、补垣、除服、成服\n忌：
+ 开光、栽种\n冲煞：冲兔(乙卯) 煞东\n个人提示：与时柱
+ 相冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛酉日 | 宜：嫁娶、祭祀、祈福等 | 忌：开光、栽
+ 种
+UID:20331106@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331107
+DTEND;VALUE=DATE:20331108
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-07 星期一\n农历：二〇三三年十月
+ 十六\n干支：癸丑年 癸亥月 壬戌日\n宜：嫁娶、冠笄、
+ 安床、纳采、会亲友、塞穴、捕捉、置产、造畜稠\n忌：
+ 开光、掘井、安葬、谢土、修坟\n冲煞：冲龙(丙辰) 煞北
+ \n节气：立冬\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬戌日 | 宜：嫁娶、冠笄、安床等 | 忌：开光、掘
+ 井、安葬等
+UID:20331107@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331108
+DTEND;VALUE=DATE:20331109
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-08 星期二\n农历：二〇三三年十月
+ 十七\n干支：癸丑年 癸亥月 癸亥日\n宜：祭祀、沐浴、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲蛇(丁巳) 煞西\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸亥日 | 宜：祭祀、沐浴、馀事勿取 | 忌：诸事不
+ 宜
+UID:20331108@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331109
+DTEND;VALUE=DATE:20331110
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-09 星期三\n农历：二〇三三年十月
+ 十八\n干支：癸丑年 癸亥月 甲子日\n宜：祭祀、会亲友
+ 、嫁娶、沐浴、修造、动土、祈福、开光、塑绘、出行
+ 、订盟、纳采、裁衣、入殓、除服、成服、移柩、启钻
+ 、赴任、竖柱、上梁、纳财、扫舍、栽种、纳畜、伐木\n
+ 忌：入宅、作灶、安床、开仓\n冲煞：冲马(戊午) 煞南\n
+ 个人提示：与年柱相冲（子冲午）\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:甲子日 | 宜：祭祀、会亲友、嫁娶等 | 忌：入宅、
+ 作灶、安床等
+UID:20331109@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331110
+DTEND;VALUE=DATE:20331111
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-10 星期四\n农历：二〇三三年十月
+ 十九\n干支：癸丑年 癸亥月 乙丑日\n宜：理发、会亲友
+ 、补垣、塞穴、结网\n忌：嫁娶、入宅、安门、移徙\n冲
+ 煞：冲羊(己未) 煞东\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙丑日 | 宜：理发、会亲友、补垣等 | 忌：嫁娶、
+ 入宅、安门等
+UID:20331110@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331111
+DTEND;VALUE=DATE:20331112
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-11 星期五\n农历：二〇三三年十月
+ 二十\n干支：癸丑年 癸亥月 丙寅日\n宜：祭祀、祈福、
+ 订盟、纳采、裁衣、拆卸、修造、动土、起基、安床、
+ 移徙、入宅、安香、除服、成服、入殓、移柩、安葬、
+ 谢土、赴任、会亲友、进人口、出行、竖柱、上梁、经
+ 络、开市、交易、立券、纳财、开仓\n忌：作灶、治病、
+ 伐木、作梁\n冲煞：冲猴(庚申) 煞北\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:丙寅日 | 宜：祭祀、祈福、订盟等 | 忌：作灶、治
+ 病、伐木等
+UID:20331111@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331112
+DTEND;VALUE=DATE:20331113
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-12 星期六\n农历：二〇三三年十月
+ 廿一\n干支：癸丑年 癸亥月 丁卯日\n宜：祭祀、祈福、
+ 订盟、纳采、裁衣、拆卸、修造、动土、起基、安床、
+ 移徙、入宅、安香、入殓、移柩、安葬、谢土、赴任、
+ 进人口、会亲友\n忌：作灶、治病\n冲煞：冲鸡(辛酉) 煞
+ 西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁卯日 | 宜：祭祀、祈福、订盟等 | 忌：作灶、治
+ 病
+UID:20331112@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331113
+DTEND;VALUE=DATE:20331114
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-13 星期日\n农历：二〇三三年十月
+ 廿二\n干支：癸丑年 癸亥月 戊辰日\n宜：祭祀、塑绘、
+ 开光、订盟、纳采、嫁娶、安床、进人口、入殓、除服
+ 、成服、移柩、启钻、安葬、立碑\n忌：开市、交易、破
+ 土、作灶\n冲煞：冲狗(壬戌) 煞南\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:戊辰日 | 宜：祭祀、塑绘、开光等 | 忌：开市、交
+ 易、破土等
+UID:20331113@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331114
+DTEND;VALUE=DATE:20331115
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-14 星期一\n农历：二〇三三年十月
+ 廿三\n干支：癸丑年 癸亥月 己巳日\n宜：祭祀、解除、
+ 破屋、坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲猪(癸亥
+ ) 煞东\n个人提示：与月柱相冲（巳冲亥）\n命主：男 · 
+ 壬午 辛亥 己丑 丁卯
+SUMMARY:己巳日 | 宜：祭祀、解除、破屋等 | 忌：诸事不宜
+UID:20331114@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331115
+DTEND;VALUE=DATE:20331116
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-15 星期二\n农历：二〇三三年十月
+ 廿四\n干支：癸丑年 癸亥月 庚午日\n宜：祭祀、解除、
+ 祈福、开光、塑绘、斋醮、订盟、纳采、裁衣、冠笄、
+ 拆卸、修造、动土、入殓、除服、成服、移柩、启钻、
+ 安床、赴任、出行、移徙、竖柱、上梁、伐木、栽种、
+ 破土、安葬、纳畜\n忌：盖屋、治病\n冲煞：冲鼠(甲子) 
+ 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚午日 | 宜：祭祀、解除、祈福等 | 忌：盖屋、治
+ 病
+UID:20331115@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331116
+DTEND;VALUE=DATE:20331117
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-16 星期三\n农历：二〇三三年十月
+ 廿五\n干支：癸丑年 癸亥月 辛未日\n宜：祭祀、祈福、
+ 订盟、纳采、裁衣、合帐、冠笄、安机械、安床、造畜
+ 稠、入殓、移柩、启钻、安葬、谢土、除服、成服、会
+ 亲友、竖柱、上梁、经络、开市、交易、立券、纳财、
+ 纳畜、筑堤\n忌：嫁娶、入宅、治病、赴任\n冲煞：冲牛(
+ 乙丑) 煞西\n个人提示：与日柱相冲（未冲丑）\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛未日 | 宜：祭祀、祈福、订盟等 | 忌：嫁娶、入
+ 宅、治病等
+UID:20331116@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331117
+DTEND;VALUE=DATE:20331118
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-17 星期四\n农历：二〇三三年十月
+ 廿六\n干支：癸丑年 癸亥月 壬申日\n宜：沐浴、扫舍、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲虎(丙寅) 煞南\n命主
+ ：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬申日 | 宜：沐浴、扫舍、馀事勿取 | 忌：诸事不
+ 宜
+UID:20331117@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331118
+DTEND;VALUE=DATE:20331119
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-18 星期五\n农历：二〇三三年十月
+ 廿七\n干支：癸丑年 癸亥月 癸酉日\n宜：诸事不宜\n忌：
+ 无\n冲煞：冲兔(丁卯) 煞东\n个人提示：时柱天克地冲（
+ 癸克丁、酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸酉日 | 宜：诸事不宜 | 忌：无
+UID:20331118@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331119
+DTEND;VALUE=DATE:20331120
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-19 星期六\n农历：二〇三三年十月
+ 廿八\n干支：癸丑年 癸亥月 甲戌日\n宜：祈福、斋醮、
+ 出行、订盟、纳采、入殓、移柩、破土、安葬、立碑、
+ 结网\n忌：入宅、作灶\n冲煞：冲龙(戊辰) 煞北\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲戌日 | 宜：祈福、斋醮、出行等 | 忌：入宅、作
+ 灶
+UID:20331119@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331120
+DTEND;VALUE=DATE:20331121
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-20 星期日\n农历：二〇三三年十月
+ 廿九\n干支：癸丑年 癸亥月 乙亥日\n宜：祭祀、沐浴、
+ 出行、冠笄、进人口、馀事勿取\n忌：嫁娶、动土、安葬
+ 、作灶\n冲煞：冲蛇(己巳) 煞西\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:乙亥日 | 宜：祭祀、沐浴、出行等 | 忌：嫁娶、动
+ 土、安葬等
+UID:20331120@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331121
+DTEND;VALUE=DATE:20331122
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-21 星期一\n农历：二〇三三年十月
+ 三十\n干支：癸丑年 癸亥月 丙子日\n宜：祭祀、祈福、
+ 斋醮、塑绘、开光、订盟、纳采、裁衣、冠笄、嫁娶、
+ 拆卸、入宅、安香、入殓、移柩、理发、安葬、修坟、
+ 谢土、赴任、移徙、沐浴、治病、破土、启钻、整手足
+ 甲、入学、作梁\n忌：开市\n冲煞：冲马(庚午) 煞南\n个
+ 人提示：与年柱相冲（子冲午）\n命主：男 · 壬午 辛亥 
+ 己丑 丁卯
+SUMMARY:丙子日 | 宜：祭祀、祈福、斋醮等 | 忌：开市
+UID:20331121@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331122
+DTEND;VALUE=DATE:20331123
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-22 星期二\n农历：二〇三三年冬月
+ 初一\n干支：癸丑年 癸亥月 丁丑日\n宜：诸事不宜\n忌：
+ 无\n冲煞：冲羊(辛未) 煞东\n节气：小雪\n命主：男 · 壬
+ 午 辛亥 己丑 丁卯
+SUMMARY:丁丑日 | 宜：诸事不宜 | 忌：无
+UID:20331122@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331123
+DTEND;VALUE=DATE:20331124
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-23 星期三\n农历：二〇三三年冬月
+ 初二\n干支：癸丑年 癸亥月 戊寅日\n宜：开市、交易、
+ 立券、挂匾、纳财、开光、出行、入宅、移徙、安床、
+ 纳畜、入殓、移柩、安葬\n忌：栽种、破土、置产、祭祀
+ 、嫁娶、动土、作灶、祈福\n冲煞：冲猴(壬申) 煞北\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊寅日 | 宜：开市、交易、立券等 | 忌：栽种、破
+ 土、置产等
+UID:20331123@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331124
+DTEND;VALUE=DATE:20331125
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-24 星期四\n农历：二〇三三年冬月
+ 初三\n干支：癸丑年 癸亥月 己卯日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、出行、解除、出火、拆卸、进人口
+ 、入宅、移徙、安床、栽种、动土、修造、纳畜、入殓
+ 、安葬、立碑、除服、成服\n忌：无\n冲煞：冲鸡(癸酉) 
+ 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己卯日 | 宜：嫁娶、祭祀、祈福等 | 忌：无
+UID:20331124@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331125
+DTEND;VALUE=DATE:20331126
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-25 星期五\n农历：二〇三三年冬月
+ 初四\n干支：癸丑年 癸亥月 庚辰日\n宜：开光、解除、
+ 拆卸、修造、动土、安床、纳畜、安葬、启钻、入殓\n忌
+ ：嫁娶、开市、出火、栽种、破土、入宅、移徙、安香
+ 、分居、掘井、作灶\n冲煞：冲狗(甲戌) 煞南\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚辰日 | 宜：开光、解除、拆卸等 | 忌：嫁娶、开
+ 市、出火等
+UID:20331125@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331126
+DTEND;VALUE=DATE:20331127
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-26 星期六\n农历：二〇三三年冬月
+ 初五\n干支：癸丑年 癸亥月 辛巳日\n宜：破屋、坏垣、
+ 馀事勿取\n忌：诸事不宜\n冲煞：冲猪(乙亥) 煞东\n个人
+ 提示：与月柱相冲（巳冲亥）\n命主：男 · 壬午 辛亥 己
+ 丑 丁卯
+SUMMARY:辛巳日 | 宜：破屋、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20331126@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331127
+DTEND;VALUE=DATE:20331128
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-27 星期日\n农历：二〇三三年冬月
+ 初六\n干支：癸丑年 癸亥月 壬午日\n宜：嫁娶、祭祀、
+ 开光、出火、出行、拆卸、修造、动土、解除、开市、
+ 交易、立券、挂匾、纳财、入宅、移徙、安床、栽种、
+ 纳畜\n忌：探病、安葬\n冲煞：冲鼠(丙子) 煞北\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬午日 | 宜：嫁娶、祭祀、开光等 | 忌：探病、安
+ 葬
+UID:20331127@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331128
+DTEND;VALUE=DATE:20331129
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-28 星期一\n农历：二〇三三年冬月
+ 初七\n干支：癸丑年 癸亥月 癸未日\n宜：祭祀、祈福、
+ 求嗣、开光、解除、理发、会亲友、栽种、纳畜、牧养
+ 、安葬、修坟、立碑、启钻\n忌：入宅、作灶、词讼、移
+ 徙、出行、赴任\n冲煞：冲牛(丁丑) 煞西\n个人提示：与
+ 日柱相冲（未冲丑）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸未日 | 宜：祭祀、祈福、求嗣等 | 忌：入宅、作
+ 灶、词讼等
+UID:20331128@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331129
+DTEND;VALUE=DATE:20331130
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-29 星期二\n农历：二〇三三年冬月
+ 初八\n干支：癸丑年 癸亥月 甲申日\n宜：祭祀、沐浴、
+ 结网、移柩、入殓、除服、成服\n忌：安床、开市、交易
+ 、出货财、安葬、修坟、嫁娶、作灶\n冲煞：冲虎(戊寅) 
+ 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲申日 | 宜：祭祀、沐浴、结网等 | 忌：安床、开
+ 市、交易等
+UID:20331129@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331130
+DTEND;VALUE=DATE:20331201
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-11-30 星期三\n农历：二〇三三年冬月
+ 初九\n干支：癸丑年 癸亥月 乙酉日\n宜：解除、馀事勿
+ 取\n忌：无\n冲煞：冲兔(己卯) 煞东\n个人提示：与时柱
+ 相冲（酉冲卯）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙酉日 | 宜：解除、馀事勿取 | 忌：无
+UID:20331130@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331201
+DTEND;VALUE=DATE:20331202
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-01 星期四\n农历：二〇三三年冬月
+ 初十\n干支：癸丑年 癸亥月 丙戌日\n宜：安床、祭祀、
+ 开池、补垣、入殓、移柩、破土、启钻\n忌：入宅、移徙
+ 、嫁娶、掘井、作灶、出火、进人口、开市、开光\n冲煞
+ ：冲龙(庚辰) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙戌日 | 宜：安床、祭祀、开池等 | 忌：入宅、移
+ 徙、嫁娶等
+UID:20331201@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331202
+DTEND;VALUE=DATE:20331203
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-02 星期五\n农历：二〇三三年冬月
+ 十一\n干支：癸丑年 癸亥月 丁亥日\n宜：祭祀、沐浴、
+ 馀事勿取\n忌：无\n冲煞：冲蛇(辛巳) 煞西\n命主：男 · 
+ 壬午 辛亥 己丑 丁卯
+SUMMARY:丁亥日 | 宜：祭祀、沐浴、馀事勿取 | 忌：无
+UID:20331202@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331203
+DTEND;VALUE=DATE:20331204
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-03 星期六\n农历：二〇三三年冬月
+ 十二\n干支：癸丑年 癸亥月 戊子日\n宜：嫁娶、开光、
+ 出行、解除、出火、拆卸、修造、进人口、动土、入宅
+ 、移徙、栽种、纳畜、掘井、安葬、除服、成服\n忌：置
+ 产、安床\n冲煞：冲马(壬午) 煞南\n个人提示：年柱天克
+ 地冲（戊克壬、子冲午）\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:戊子日 | 宜：嫁娶、开光、出行等 | 忌：置产、安
+ 床
+UID:20331203@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331204
+DTEND;VALUE=DATE:20331205
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-04 星期日\n农历：二〇三三年冬月
+ 十三\n干支：癸丑年 癸亥月 己丑日\n宜：开光、裁衣、
+ 安门、会亲友、安床、结网、理发\n忌：嫁娶、冠笄、出
+ 行、祈福、安葬、伐木、入宅、移徙、出火、栽种、动
+ 土、上梁\n冲煞：冲羊(癸未) 煞东\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:己丑日 | 宜：开光、裁衣、安门等 | 忌：嫁娶、冠
+ 笄、出行等
+UID:20331204@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331205
+DTEND;VALUE=DATE:20331206
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-05 星期一\n农历：二〇三三年冬月
+ 十四\n干支：癸丑年 癸亥月 庚寅日\n宜：嫁娶、开光、
+ 出行、出火、拆卸、修造、动土、入宅、移徙、安床、
+ 上梁、开市、交易、立券、栽种\n忌：祈福、祭祀、伐木
+ 、掘井、作灶、谢土\n冲煞：冲猴(甲申) 煞北\n命主：男 
+ · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚寅日 | 宜：嫁娶、开光、出行等 | 忌：祈福、祭
+ 祀、伐木等
+UID:20331205@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331206
+DTEND;VALUE=DATE:20331207
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-06 星期二\n农历：二〇三三年冬月
+ 十五\n干支：癸丑年 癸亥月 辛卯日\n宜：嫁娶、祭祀、
+ 祈福、求嗣、开光、出火、出行、拆卸、开市、交易、
+ 立券、挂匾、伐木、入宅、移徙、安床、安葬\n忌：栽种
+ 、掘井、置产\n冲煞：冲鸡(乙酉) 煞西\n命主：男 · 壬午
+  辛亥 己丑 丁卯
+SUMMARY:辛卯日 | 宜：嫁娶、祭祀、祈福等 | 忌：栽种、掘
+ 井、置产
+UID:20331206@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331207
+DTEND;VALUE=DATE:20331208
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-07 星期三\n农历：二〇三三年冬月
+ 十六\n干支：癸丑年 甲子月 壬辰日\n宜：塑绘、开光、
+ 订盟、纳采、裁衣、冠笄、拆卸、修造、安床、入宅、
+ 出火、安葬、谢土、赴任\n忌：掘井、伐木、斋醮、作灶
+ \n冲煞：冲狗(丙戌) 煞南\n节气：大雪\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:壬辰日 | 宜：塑绘、开光、订盟等 | 忌：掘井、伐
+ 木、斋醮等
+UID:20331207@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331208
+DTEND;VALUE=DATE:20331209
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-08 星期四\n农历：二〇三三年冬月
+ 十七\n干支：癸丑年 甲子月 癸巳日\n宜：祭祀、塑绘、
+ 开光、裁衣、冠笄、嫁娶、纳采、拆卸、修造、动土、
+ 竖柱、上梁、安床、移徙、入宅、安香、结网、捕捉、
+ 畋猎、伐木、进人口、放水\n忌：出行、安葬、修坟、开
+ 市\n冲煞：冲猪(丁亥) 煞东\n个人提示：与月柱相冲（巳
+ 冲亥）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸巳日 | 宜：祭祀、塑绘、开光等 | 忌：出行、安
+ 葬、修坟等
+UID:20331208@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331209
+DTEND;VALUE=DATE:20331210
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-09 星期五\n农历：二〇三三年冬月
+ 十八\n干支：癸丑年 甲子月 甲午日\n宜：祭祀、求医、
+ 破屋、坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲鼠(戊子
+ ) 煞北\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲午日 | 宜：祭祀、求医、破屋等 | 忌：诸事不宜
+UID:20331209@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331210
+DTEND;VALUE=DATE:20331211
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-10 星期六\n农历：二〇三三年冬月
+ 十九\n干支：癸丑年 甲子月 乙未日\n宜：祭祀、祈福、
+ 斋醮、出行、冠笄、安机械、移徙、入宅、安香、安床
+ 、除服、成服、移柩、启钻\n忌：开光、栽种、治病、安
+ 门、作灶\n冲煞：冲牛(己丑) 煞西\n个人提示：日柱天克
+ 地冲（乙克己、未冲丑）\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:乙未日 | 宜：祭祀、祈福、斋醮等 | 忌：开光、栽
+ 种、治病等
+UID:20331210@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331211
+DTEND;VALUE=DATE:20331212
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-11 星期日\n农历：二〇三三年冬月
+ 二十\n干支：癸丑年 甲子月 丙申日\n宜：塑绘、斋醮、
+ 出行、拆卸、解除、修造、移徙、造船、入殓、除服、
+ 成服、移柩、启钻、修坟、立碑、谢土\n忌：无\n冲煞：
+ 冲虎(庚寅) 煞南\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙申日 | 宜：塑绘、斋醮、出行等 | 忌：无
+UID:20331211@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331212
+DTEND;VALUE=DATE:20331213
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-12 星期一\n农历：二〇三三年冬月
+ 廿一\n干支：癸丑年 甲子月 丁酉日\n宜：祭祀、沐浴、
+ 安床、纳财、畋猎、捕捉\n忌：开市、破土\n冲煞：冲兔(
+ 辛卯) 煞东\n个人提示：与时柱相冲（酉冲卯）\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丁酉日 | 宜：祭祀、沐浴、安床等 | 忌：开市、破
+ 土
+UID:20331212@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331213
+DTEND;VALUE=DATE:20331214
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-13 星期二\n农历：二〇三三年冬月
+ 廿二\n干支：癸丑年 甲子月 戊戌日\n宜：订盟、纳采、
+ 祭祀、祈福、修造、动土、上梁、破土\n忌：嫁娶、作灶
+ \n冲煞：冲龙(壬辰) 煞北\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:戊戌日 | 宜：订盟、纳采、祭祀等 | 忌：嫁娶、作
+ 灶
+UID:20331213@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331214
+DTEND;VALUE=DATE:20331215
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-14 星期三\n农历：二〇三三年冬月
+ 廿三\n干支：癸丑年 甲子月 己亥日\n宜：出行、沐浴、
+ 理发、补垣、塞穴\n忌：入宅、安葬\n冲煞：冲蛇(癸巳) 
+ 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:己亥日 | 宜：出行、沐浴、理发等 | 忌：入宅、安
+ 葬
+UID:20331214@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331215
+DTEND;VALUE=DATE:20331216
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-15 星期四\n农历：二〇三三年冬月
+ 廿四\n干支：癸丑年 甲子月 庚子日\n宜：教牛马、馀事
+ 勿取\n忌：入宅、动土、破土\n冲煞：冲马(甲午) 煞南\n
+ 个人提示：与年柱相冲（子冲午）\n命主：男 · 壬午 辛
+ 亥 己丑 丁卯
+SUMMARY:庚子日 | 宜：教牛马、馀事勿取 | 忌：入宅、动土
+ 、破土
+UID:20331215@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331216
+DTEND;VALUE=DATE:20331217
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-16 星期五\n农历：二〇三三年冬月
+ 廿五\n干支：癸丑年 甲子月 辛丑日\n宜：嫁娶、出行、
+ 求医、治病、祭祀、祈福、上梁、纳畜\n忌：开市、安葬
+ \n冲煞：冲羊(乙未) 煞东\n命主：男 · 壬午 辛亥 己丑 丁
+ 卯
+SUMMARY:辛丑日 | 宜：嫁娶、出行、求医等 | 忌：开市、安
+ 葬
+UID:20331216@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331217
+DTEND;VALUE=DATE:20331218
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-17 星期六\n农历：二〇三三年冬月
+ 廿六\n干支：癸丑年 甲子月 壬寅日\n宜：开市、立券、
+ 开光、解除、安机械、上梁、启钻、安葬\n忌：嫁娶、祈
+ 福\n冲煞：冲猴(丙申) 煞北\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:壬寅日 | 宜：开市、立券、开光等 | 忌：嫁娶、祈
+ 福
+UID:20331217@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331218
+DTEND;VALUE=DATE:20331219
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-18 星期日\n农历：二〇三三年冬月
+ 廿七\n干支：癸丑年 甲子月 癸卯日\n宜：平治道涂、馀
+ 事勿取\n忌：诸事不宜\n冲煞：冲鸡(丁酉) 煞西\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸卯日 | 宜：平治道涂、馀事勿取 | 忌：诸事不宜
+UID:20331218@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331219
+DTEND;VALUE=DATE:20331220
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-19 星期一\n农历：二〇三三年冬月
+ 廿八\n干支：癸丑年 甲子月 甲辰日\n宜：求嗣、斋醮、
+ 塑绘、订盟、纳采、出火、拆卸、修造、动土、造桥、
+ 安机械、栽种、纳畜、牧养、入殓、除服、成服、移柩
+ 、破土、安葬\n忌：开市、嫁娶\n冲煞：冲狗(戊戌) 煞南
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲辰日 | 宜：求嗣、斋醮、塑绘等 | 忌：开市、嫁
+ 娶
+UID:20331219@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331220
+DTEND;VALUE=DATE:20331221
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-20 星期二\n农历：二〇三三年冬月
+ 廿九\n干支：癸丑年 甲子月 乙巳日\n宜：嫁娶、订盟、
+ 纳采、祭祀、祈福、修造、动土、移徙、入宅\n忌：开市
+ 、安葬\n冲煞：冲猪(己亥) 煞东\n个人提示：与月柱相冲
+ （巳冲亥）\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙巳日 | 宜：嫁娶、订盟、纳采等 | 忌：开市、安
+ 葬
+UID:20331220@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331221
+DTEND;VALUE=DATE:20331222
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-21 星期三\n农历：二〇三三年冬月
+ 三十\n干支：癸丑年 甲子月 丙午日\n宜：治病、破屋、
+ 坏垣、馀事勿取\n忌：诸事不宜\n冲煞：冲鼠(庚子) 煞北
+ \n节气：冬至\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:丙午日 | 宜：治病、破屋、坏垣等 | 忌：诸事不宜
+UID:20331221@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331222
+DTEND;VALUE=DATE:20331223
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-22 星期四\n农历：二〇三三年闰冬
+ 月初一\n干支：癸丑年 甲子月 丁未日\n宜：祭祀、祈福
+ 、求嗣、斋醮、开光、入学、订盟、冠笄、伐木、修造
+ 、动土、起基、放水、交易、开池\n忌：造桥、安门、理
+ 发、造庙、栽种、作灶\n冲煞：冲牛(辛丑) 煞西\n个人提
+ 示：与日柱相冲（未冲丑）\n命主：男 · 壬午 辛亥 己丑
+  丁卯
+SUMMARY:丁未日 | 宜：祭祀、祈福、求嗣等 | 忌：造桥、安
+ 门、理发等
+UID:20331222@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331223
+DTEND;VALUE=DATE:20331224
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-23 星期五\n农历：二〇三三年闰冬
+ 月初二\n干支：癸丑年 甲子月 戊申日\n宜：解除、坏垣
+ 、馀事勿取\n忌：诸事不宜\n冲煞：冲虎(壬寅) 煞南\n命
+ 主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:戊申日 | 宜：解除、坏垣、馀事勿取 | 忌：诸事不
+ 宜
+UID:20331223@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331224
+DTEND;VALUE=DATE:20331225
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-24 星期六\n农历：二〇三三年闰冬
+ 月初三\n干支：癸丑年 甲子月 己酉日\n宜：沐浴、理发
+ 、扫舍\n忌：伐木、纳畜、上梁、入宅、作灶、造畜稠、
+ 嫁娶、安葬、作梁、造船、安门\n冲煞：冲兔(癸卯) 煞东
+ \n个人提示：与时柱相冲（酉冲卯）\n命主：男 · 壬午 
+ 辛亥 己丑 丁卯
+SUMMARY:己酉日 | 宜：沐浴、理发、扫舍 | 忌：伐木、纳畜
+ 、上梁等
+UID:20331224@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331225
+DTEND;VALUE=DATE:20331226
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-25 星期日\n农历：二〇三三年闰冬
+ 月初四\n干支：癸丑年 甲子月 庚戌日\n宜：祭祀、开光
+ 、祈福、解除、作梁、动土、安床、掘井、栽种、纳畜
+ 、破土、移柩\n忌：嫁娶、出行、赴任、盖屋、入殓、入
+ 宅、移徙、出火、进人口、安葬\n冲煞：冲龙(甲辰) 煞北
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:庚戌日 | 宜：祭祀、开光、祈福等 | 忌：嫁娶、出
+ 行、赴任等
+UID:20331225@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331226
+DTEND;VALUE=DATE:20331227
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-26 星期一\n农历：二〇三三年闰冬
+ 月初五\n干支：癸丑年 甲子月 辛亥日\n宜：作梁、修造
+ 、动土、安门、作灶、塞穴、开池、开厕、筑堤、补垣
+ 、栽种\n忌：嫁娶、祈福、掘井、行丧、安葬、安床\n冲
+ 煞：冲蛇(乙巳) 煞西\n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:辛亥日 | 宜：作梁、修造、动土等 | 忌：嫁娶、祈
+ 福、掘井等
+UID:20331226@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331227
+DTEND;VALUE=DATE:20331228
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-27 星期二\n农历：二〇三三年闰冬
+ 月初六\n干支：癸丑年 甲子月 壬子日\n宜：安葬、启钻
+ 、移柩、入殓、除服、成服\n忌：馀事勿取\n冲煞：冲马(
+ 丙午) 煞南\n个人提示：与年柱相冲（子冲午）\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:壬子日 | 宜：安葬、启钻、移柩等 | 忌：馀事勿取
+UID:20331227@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331228
+DTEND;VALUE=DATE:20331229
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-28 星期三\n农历：二〇三三年闰冬
+ 月初七\n干支：癸丑年 甲子月 癸丑日\n宜：嫁娶、祭祀
+ 、祈福、求嗣、出行、出火、拆卸、开市、交易、立券
+ 、挂匾、入宅、移徙、安床、栽种\n忌：作灶、塑绘、行
+ 丧、词讼、伐木、安葬\n冲煞：冲羊(丁未) 煞东\n命主：
+ 男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:癸丑日 | 宜：嫁娶、祭祀、祈福等 | 忌：作灶、塑
+ 绘、行丧等
+UID:20331228@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331229
+DTEND;VALUE=DATE:20331230
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-29 星期四\n农历：二〇三三年闰冬
+ 月初八\n干支：癸丑年 甲子月 甲寅日\n宜：理发、开光
+ 、解除、拆卸、修造、安葬、开市、交易、立券、挂匾
+ 、安床、栽种\n忌：入宅、移徙、作灶、祈福、祭祀、嫁
+ 娶、谢土、掘井、盖屋、探病\n冲煞：冲猴(戊申) 煞北\n
+ 命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:甲寅日 | 宜：理发、开光、解除等 | 忌：入宅、移
+ 徙、作灶等
+UID:20331229@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331230
+DTEND;VALUE=DATE:20331231
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-30 星期五\n农历：二〇三三年闰冬
+ 月初九\n干支：癸丑年 甲子月 乙卯日\n宜：祭祀、修饰
+ 垣墙、馀事勿取\n忌：诸事不宜\n冲煞：冲鸡(己酉) 煞西
+ \n命主：男 · 壬午 辛亥 己丑 丁卯
+SUMMARY:乙卯日 | 宜：祭祀、修饰垣墙、馀事勿取 | 忌：诸
+ 事不宜
+UID:20331230@bazi-almanac.local
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20331231
+DTEND;VALUE=DATE:20340101
+DTSTAMP:20261114T031419Z
+DESCRIPTION:公历：2033-12-31 星期六\n农历：二〇三三年闰冬
+ 月初十\n干支：癸丑年 甲子月 丙辰日\n宜：入宅、安床
+ 、开光、祭祀、出火、拆卸、动土、挂匾、入殓、破土
+ 、安葬、纳畜\n忌：嫁娶、开市、作灶、置产、作梁、伐
+ 木\n冲煞：冲狗(庚戌) 煞南\n命主：男 · 壬午 辛亥 己丑 
+ 丁卯
+SUMMARY:丙辰日 | 宜：入宅、安床、开光等 | 忌：嫁娶、开
+ 市、作灶等
+UID:20331231@bazi-almanac.local
+END:VEVENT
+END:VCALENDAR
